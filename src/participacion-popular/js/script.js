@@ -57,14 +57,11 @@ $(document).ready(function() {
 
 			button.addClass('exit-button');
 
-			button.el().onclick = function() {
-				if (myPlayer.hasClass('vjs-fullscreen'))
-					myPlayer.removeClass('vjs-fullscreen');
-				else
-					myPlayer.addClass('vjs-fullscreen');
-			};
+			window.myPlayer = myPlayer;
 
-			window.button = button;
+			button.el().onclick = function() {
+				$(myPlayer.el()).toggleClass('vjs-fullscreen');
+			};
 
 		});
 
