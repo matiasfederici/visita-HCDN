@@ -69,6 +69,9 @@ $(document).ready(function() {
 			myPlayer.removeClass('vjs-fullscreen');
 		});
 
+		videojs("example_video_1").on("error", function(){
+			document.location.reload();
+		});
 
 	}
 	else

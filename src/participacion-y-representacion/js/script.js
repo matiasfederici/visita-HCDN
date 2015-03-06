@@ -13,9 +13,9 @@ $(document).ready(function() {
 			}, 1000);
 		});
 	});
-	
 
-	
+
+
 	$.urlParam = function(name){
 		var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
 		if (results==null)
@@ -27,10 +27,10 @@ $(document).ready(function() {
 		   return results[1] || 0;
 		}
 	}
-	
+
 	var place = $.urlParam('place');
 	var myPlayer;
-	
+
 	if( $(window).height() <= 442 && $(window).width() <=1022 )
 	{
 		var width_reproductor = 550;
@@ -41,36 +41,47 @@ $(document).ready(function() {
 		var width_reproductor = 750;
 		var height_reproductor = 350;
 	}
-	
+
 	$('#example_video_1').attr( "width", width_reproductor );
 	$('#example_video_1').attr( "height", height_reproductor );
-	
+
 	if(place == 'home')
-	{		
+	{
 		videojs("example_video_1").ready(function(){
 			myPlayer = this;
-			
-			if(!myPlayer.isFullscreen())
-			{	
+
 				myPlayer.addClass('vjs-fullscreen');
 				myPlayer.play();
-			}
+
+			var button = myPlayer.controlBar.addChild('button', {
+				text: 'alternar'
+			});
+
+			button.addClass('exit-button');
+
+			button.el().onclick = function() {
+				$(myPlayer.el()).toggleClass('vjs-fullscreen');
+			};
 		});
-		
+
 		videojs("example_video_1").on("ended", function(){
 			this.removeClass('vjs-fullscreen');
 		});
-		
+
+		videojs("example_video_1").on("error", function(){
+			document.location.reload();
+		});
+
 	}
 	else
 	{
 		videojs("example_video_1").ready(function(){
 			myPlayer = this;
-			
+
 			$('#example_video_1').find('.vjs-big-play-button').remove();
 		});
 	}
-	
+
 	$( ".playlist" ).click(function() {
 		myPlayer.src($( this ).attr('data-video'));
 		$('#substitle').attr('src', $( this ).attr('data-track'));

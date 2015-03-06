@@ -55,9 +55,6 @@ $(document).ready(function() {
 		OSPath="/home/alumno/proyectos/recursos/";
 		//OSPath="file:///media/alumno/DATOS/recursos/";
 
-
-  console.log(OSPath);
-
 	$('.recurso-src').each(function(){
 		$(this).attr('src',OSPath+$(this).attr('src'))
 	});
