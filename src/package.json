@@ -1,0 +1,11 @@
+{
+  "name": "Visitá la casa del pueblo",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 1300,
+    "height": 650,
+    "min_width": 1300,
+    "min_height": 650
+  }
+}
