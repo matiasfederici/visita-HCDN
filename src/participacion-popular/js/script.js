@@ -2,8 +2,6 @@ document.createElement('video');
 document.createElement('audio');
 document.createElement('track');
 
-
-
 $(document).ready(function() {
 	$('.container .content .personas .img-personas').each(function() {
 		$(this).appear(function() {
@@ -13,7 +11,7 @@ $(document).ready(function() {
 			}, 1000);
 		});
 	});
-	
+
 	$.urlParam = function(name){
 		var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
 		if (results==null)
@@ -25,10 +23,10 @@ $(document).ready(function() {
 		   return results[1] || 0;
 		}
 	}
-	
+
 	var place = $.urlParam('place');
 	var myPlayer;
-	
+
 	if( $(window).height() <= 442 && $(window).width() <=1022 )
 	{
 		var width_reproductor = 550;
@@ -39,37 +37,35 @@ $(document).ready(function() {
 		var width_reproductor = 750;
 		var height_reproductor = 350;
 	}
-	
+
 	$('#example_video_1').attr( "width", width_reproductor );
 	$('#example_video_1').attr( "height", height_reproductor );
-	
+
 	if(place == 'home')
-	{	
+	{
 		videojs("example_video_1").ready(function(){
-			
+
 			myPlayer = this;
-			
-			if(!myPlayer.isFullscreen())
-			{	
+
 				myPlayer.addClass('vjs-fullscreen');
 				myPlayer.play();
-				myPlayer.requestFullScreen();
-			}
 		});
 
 		videojs("example_video_1").on("ended", function(){
 			myPlayer.removeClass('vjs-fullscreen');
 		});
+
+
 	}
 	else
 	{
 		videojs("example_video_1").ready(function(){
 			myPlayer = this;
-			
+
 			$('#example_video_1').find('.vjs-big-play-button').remove();
 		});
 	}
-	
+
 	$( ".playlist" ).click(function() {
 		myPlayer.src($( this ).attr('data-video'));
 		$('#substitle').attr('src', $( this ).attr('data-track'));
