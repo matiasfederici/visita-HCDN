@@ -1548,7 +1548,7 @@ footer .social-icon a:hover {
 
 @font-face {
 	font-family: 'Tenorsans-Regular';
-    src: url('../fonts/Tenorsans-Regular.eot?#iefix') format('embedded-opentype'), 
+    src: url('../fonts/Tenorsans-Regular.eot?#iefix') format('embedded-opentype'),
          url('../fonts/Tenorsans-Regular.woff') format('woff'),
          url('../fonts/Tenorsans-Regular.ttf') format('truetype'),
          url('../fonts/Tenorsans-Regular.svg') format('svg');
@@ -1566,7 +1566,7 @@ body{
 	background-image: url("../images/comun/fondo-general.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100% 100%;	
+	background-size: 100% 100%;
 	width: 100%;
 	height: 100vh;
 }
@@ -1575,7 +1575,7 @@ body{
 	background-image: url("../images/comun/fondo-infografia.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100% 100%;	
+	background-size: 100% 100%;
 	width: 100%;
 	height: 100vh;
 }
@@ -1584,7 +1584,7 @@ body{
 	background-image: url("../images/comun/fondo.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100% 100%;	
+	background-size: 100% 100%;
 	width: 100%;
 	height: 100vh;
 }
@@ -1593,7 +1593,7 @@ body{
 	background-image: url("../images/comun/fondo-2.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100% 100%;	
+	background-size: 100% 100%;
 	width: 100%;
 	height: 100vh;
 }
@@ -1602,7 +1602,7 @@ body{
 	background-image: url("../images/comun/fondo-3.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100% 100%;	
+	background-size: 100% 100%;
 	width: 100%;
 	height: 100vh;
 }
@@ -1611,7 +1611,7 @@ body{
 	background-image: url("../images/comun/fondo-4.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100% 100%;	
+	background-size: 100% 100%;
 	width: 100%;
 	height: 100vh;
 }
@@ -1633,7 +1633,7 @@ body{
 .container-data{
 	width: 1000px;
 	height: 490px;
-	margin: 0px auto;	
+	margin: 0px auto;
 }
 
 #preloader {
@@ -1654,4 +1654,11 @@ left: 50%;
 top: 50%;
 margin: -15px 0 0 -15px;
 font-size: 32px;
+}
+
+
+.exit-app-container {
+	position: absolute;
+	right: 60px;
+	top: 35px;
 }
