@@ -1,3 +1,9 @@
+visita (0.2) unstable; urgency=low
+
+  * Primer prueba de empaquetado.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 06 Mar 2015 15:11:48 +0100
+
 visita (0.1) unstable; urgency=low
 
   * Versión inicial.

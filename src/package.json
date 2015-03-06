@@ -3,6 +3,7 @@
   "main": "index.html",
   "window": {
     "toolbar": false,
+    "position": "center",
     "fullscreen": true,
     "width": 1300,
     "height": 650,
