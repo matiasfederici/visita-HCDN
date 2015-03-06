@@ -19,8 +19,6 @@ jQuery(window).load(function() {
 
 });
 
-var win = gui.Window.get();
-win.enterFullscreen();
 
 
 document.onkeydown = function(e) {
@@ -31,13 +29,11 @@ document.onkeydown = function(e) {
   }
 
 
-
   // Si pulsa la tecla "i" abre las herramientas de desarrollo.
   if (e.keyCode === 73) {
     var win = gui.Window.get();
     win.showDevTools();
   }
-
 
   // Si pulsa la tecla "r" actualiza la pantalla.
   if (e.keyCode === 82) {
