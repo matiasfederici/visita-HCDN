@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Visita La Casa Del Pueblo
+Comment=una visita a la casa del pueblo
+Exec=chromium /media/alumno/DATOS/scripts/index.html
+Icon=visita
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Huayra;

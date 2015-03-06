@@ -1,0 +1,737 @@
+.text-style{
+	color: #FFFFFF;
+	background-color: #6EB5DB;	
+}
+.text-style-2{
+	color: #6EB5DB;	
+}
+
+.text-style-3{
+	color: #6EB5DB;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+
+.text-style-4{
+	font-size:17px;
+}
+
+.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 5%; 
+}	
+
+.container .main .titulo{
+	position: absolute;
+	margin-left: -7%; 
+	margin-top: -1%;
+	width: 27%;	
+}
+	
+	.container .main .titulo .img-titulo{
+		width: 92%;
+	}
+.container .main .poder-ejecutivo{
+	position: absolute;
+	margin-left: 70%; 
+	margin-top: 20%;
+	width: 30%;	
+	cursor: pointer;
+}
+	
+	.container .main .poder-ejecutivo .img-poder-ejecutivo{
+		width: 100%;
+	}
+	
+.container .main .poder-judicial{
+	position: absolute;
+	margin-left: 35%; 
+	margin-top: 3%;
+	width: 39%;	
+	cursor: pointer;
+}
+	
+	.container .main .poder-judicial .img-poder-judicial{
+		width: 100%;
+	}
+	
+.container .main .poder-legislativo{
+	position: absolute;
+	margin-left: 59%; 
+	margin-top: -4%;
+	width: 41%;	
+	cursor: pointer;
+}
+	
+	.container .main .poder-legislativo .img-poder-legislativo{
+		width: 100%;
+	}
+
+	.container .main .icono-1{
+	position: absolute;
+	margin-left: 0%; 
+	margin-top: 16%;
+	width: 17%;	
+	cursor: pointer;
+}
+	
+	.container .main .icono-1 .img-icono-1{
+		width: 100%;
+	}
+	
+.container .main .icono-2{
+	position: absolute;
+	margin-left: 11.4%; 
+	margin-top: 17%;
+	width: 19%;	
+	cursor: pointer;
+}
+	
+	.container .main .icono-2 .img-icono-2{
+		width: 104%;
+	}
+
+.container .main .icons-container{
+	position: absolute;
+	margin-left: -3%; 
+	margin-top: 23%;
+	width: 40%;
+}
+
+.container .main .text-container{
+	position: absolute;
+	margin-left: 20%; 
+	margin-top: -2%;
+	width: 45%;
+	font-size: 18px;
+	/* text-align: center; */
+}		
+	
+.container .main .icono-3{
+
+	margin-left: -5%; 
+	margin-top: 36%;
+	
+
+	width: 15%;	
+	cursor: pointer;
+
+}
+	
+	.container .main .icono-3 .img-icono-3{
+		width: 100%;
+	}
+	
+.container .main .icono-4{
+
+	margin-left: 1%; 
+	
+
+	margin-top: 32%;
+	
+
+	width: 13%;	
+	cursor: pointer;
+
+}
+	
+	.container .main .icono-4 .img-icono-4{
+		width: 100%;
+	}
+	
+.container .main .icono-5{
+
+	margin-left: 4%; 
+	margin-top: 35.5%;
+	
+
+	width: 7%;	
+	cursor: pointer;
+
+}
+	
+	.container .main .icono-5 .img-icono-5{
+		width: 100%;
+	}
+	
+.container .main .icono-6{
+
+	margin-left: 27%; 
+	
+
+	margin-top: 32%;
+	
+
+	width: 40%;	
+}
+	
+	.container .main .icono-6 .img-icono-6{
+		width: 100%;
+	}
+	
+.container .main .flecha-1{
+
+	margin-left: 2%; 
+	margin-top: 37%;
+	
+
+	width: 7%;	
+}
+	
+	.container .main .flecha-1 .img-flecha-1{
+		width: 100%;
+	}
+
+.container .main .flecha-2{
+
+	margin-left: 2%; 
+	margin-top: 37%;
+	
+
+	width: 7%;	
+}
+	
+	.container .main .flecha-2 .img-flecha-2{
+		width: 100%;
+	}
+
+	
+.container .main .back{
+	position: absolute;
+	margin-left: -8%;
+	margin-top: -3%; 
+}
+	.container .main .back .img-back{
+		width: 75%;
+	}
+	
+	.container .main .back:hover{
+		-webkit-transform: translateY(-5px);
+		transform: translateY(-5px);
+		opacity: 0.7;
+	}
+	
+/***** MODALS STYLE ********/
+
+.modal-container-1{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -42%; 
+	width: 71%;
+}
+
+.modal-container-1 .icono{
+	position: absolute;
+	margin-left: 5%;
+	margin-top: 10%; 
+	width: 100%;
+}
+
+	.modal-container-1 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: 0%;
+		width: 100%;
+		overflow-y: scroll;
+		max-height: 380px;
+		text-align: justify;
+		padding-right: 35px;
+	}
+	
+.modal-container-2 .icono{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -162%; 
+	width: 79%;
+}
+
+	.modal-container-2 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -56%;
+		width: 77%;
+		text-align: justify;
+		padding-right: 35px;
+	}
+
+.modal-container-3 .icono{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -161%; 
+	width: 69%;
+}
+
+	.modal-container-3 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -56%;
+		width: 77%;
+		text-align: justify;
+		padding-right: 35px;
+	
+		font-size: 17px;
+}
+	
+.modal-container-4 .icono-1{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -161%; 
+	width: 50%;
+}
+
+.modal-container-4 .icono-2{
+	position: absolute;
+	margin-left: 70%;
+	margin-top: -153%; 
+	width: 50%;
+}
+
+	.modal-container-4 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -56%;
+		width: 77%;
+		overflow-y: scroll;
+		max-height: 360px;
+		text-align: justify;
+		padding-right: 35px;
+}
+	
+.modal-container-5 {
+	position: absolute;
+	margin-left: 7%;
+	margin-top: -35%; 
+	width: 85%;
+}
+
+	.modal-container-5 .icon-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .icon-4{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .icon-5{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-1{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 0%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-2{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -1%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 7%; 
+		width: 85%;
+	}
+	
+	.paulund_modal_box{
+		position: absolute;
+		left: 10%;
+		top: 0%;
+		height: 100%;
+		width: 82%;
+		z-index: 50;
+	}
+	
+		.paulund_modal_box .paulund_modal_close{
+			position: relative;
+			top: 11%;
+			left: -4%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+	
+@media (max-height: 442px) {
+	.text-style{
+	color: #FFFFFF;
+	background-color: #6EB5DB;	
+	}
+	.text-style-2{
+	color: #6EB5DB;	
+	}
+
+	.text-style-3{
+	color: #6EB5DB;	
+	text-transform: uppercase;
+	font-size:15px;
+	}
+
+	.text-style-4{
+	font-size:17px;
+	}
+
+	.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 5%; 
+	}	
+
+	.container .main .titulo{
+	position: absolute;
+	margin-left: -7%; 
+	margin-top: -1%;
+	width: 25%;	
+	}
+
+	.container .main .titulo .img-titulo{
+		width: 92%;
+	}
+	.container .main .poder-ejecutivo{
+	position: absolute;
+	margin-left: 72%; 
+	margin-top: 18%;
+	width: 28%;	
+	cursor: pointer;
+	}
+
+	.container .main .poder-ejecutivo .img-poder-ejecutivo{
+		width: 100%;
+	}
+
+	.container .main .poder-judicial{
+	position: absolute;
+	margin-left: 39%; 
+	margin-top: 3%;
+	width: 36%;	
+	cursor: pointer;
+	}
+
+	.container .main .poder-judicial .img-poder-judicial{
+		width: 100%;
+	}
+
+	.container .main .poder-legislativo{
+	position: absolute;
+	margin-left: 62%; 
+	margin-top: -4%;
+	width: 37%;	
+	cursor: pointer;
+	}
+
+	.container .main .poder-legislativo .img-poder-legislativo{
+		width: 100%;
+	}
+
+	.container .main .icono-1{
+	position: absolute;
+	margin-left: -4%; 
+	margin-top: 17%;
+	width: 17%;	
+	cursor: pointer;
+	}
+
+	.container .main .icono-1 .img-icono-1{
+		width: 100%;
+	}
+
+	.container .main .icono-2{
+	position: absolute;
+	margin-left: 8%; 
+	margin-top: 18%;
+	width: 19%;	
+	cursor: pointer;
+	}
+
+	.container .main .icono-2 .img-icono-2{
+		width: 104%;
+	}
+
+	.container .main .icons-container{
+	position: absolute;
+	margin-left: -3%; 
+	margin-top: 21%;
+	width: 40%;
+	}
+
+	.container .main .text-container{
+	position: absolute;
+	margin-left: 20%; 
+	margin-top: -2%;
+	width: 45%;
+	font-size: 12px;
+	/* text-align: center; */
+	}		
+
+	.container .main .icono-3{
+
+	margin-left: -5%; 
+	margin-top: 36%;
+
+
+	width: 15%;	
+	cursor: pointer;
+
+	}
+
+	.container .main .icono-3 .img-icono-3{
+		width: 100%;
+	}
+
+	.container .main .icono-4{
+
+	margin-left: 1%; 
+
+
+	margin-top: 32%;
+
+
+	width: 13%;	
+	cursor: pointer;
+
+	}
+
+	.container .main .icono-4 .img-icono-4{
+		width: 100%;
+	}
+
+	.container .main .icono-5{
+
+	margin-left: 4%; 
+	margin-top: 35.5%;
+
+
+	width: 7%;	
+	cursor: pointer;
+
+	}
+
+	.container .main .icono-5 .img-icono-5{
+		width: 100%;
+	}
+
+	.container .main .icono-6{
+
+	margin-left: 30%; 
+
+
+	margin-top: 30%;
+
+
+	width: 41%;	
+	}
+
+	.container .main .icono-6 .img-icono-6{
+		width: 100%;
+	}
+
+	.container .main .flecha-1{
+
+	margin-left: 2%; 
+	margin-top: 37%;
+
+
+	width: 7%;	
+	}
+
+	.container .main .flecha-1 .img-flecha-1{
+		width: 100%;
+	}
+
+	.container .main .flecha-2{
+
+	margin-left: 2%; 
+	margin-top: 37%;
+
+
+	width: 7%;	
+	}
+
+	.container .main .flecha-2 .img-flecha-2{
+		width: 100%;
+	}
+
+
+	.container .main .back{
+	position: absolute;
+	margin-left: -8%;
+	margin-top: -3%; 
+	}
+	.container .main .back .img-back{
+		width: 75%;
+	}
+
+	.container .main .back:hover{
+		-webkit-transform: translateY(-5px);
+		transform: translateY(-5px);
+		opacity: 0.7;
+	}
+
+	/***** MODALS STYLE ********/
+
+	.modal-container-1{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -42%; 
+	width: 71%;
+	}
+
+	.modal-container-1 .icono{
+	position: absolute;
+	margin-left: 5%;
+	margin-top: 10%; 
+	width: 100%;
+	}
+
+	.modal-container-1 .text-content{
+		position: absolute;
+		margin-left: 5%;
+		margin-top: 0%; 
+		width: 110%;
+		overflow-y: scroll;
+		max-height: 280px;
+	}
+
+	.modal-container-2 .icono{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -162%; 
+	width: 79%;
+	}
+
+	.modal-container-2 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -56%; 
+		width: 80%;
+		overflow-y: scroll;
+		max-height: 280px;
+	}
+
+	.modal-container-3 .icono{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -161%; 
+	width: 69%;
+	}
+
+	.modal-container-3 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -55%; 
+		width: 76%;
+		max-height: 300px;
+	
+		text-align: justify;  padding-right: 35px;  
+		font-size: 13px;
+}
+
+	.modal-container-4 .icono-1{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -161%; 
+	width: 50%;
+	}
+
+	.modal-container-4 .icono-2{
+	position: absolute;
+	margin-left: 70%;
+	margin-top: -153%; 
+	width: 50%;
+	}
+
+	.modal-container-4 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -56%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 280px;
+	}
+
+	.modal-container-5 {
+	position: absolute;
+	margin-left: 6%;
+	margin-top: -39%; 
+	width: 85%;
+	}
+
+	.modal-container-5 .icon-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .icon-4{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .icon-5{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .texto-1{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 0%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .texto-2{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -1%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .texto-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 4%; 
+		width: 85%;
+	}
+	
+	.paulund_modal_box{
+		position: absolute;
+		left: 10%;
+		top: -8%;
+		height: 100%;
+		width: 82%;
+		z-index: 50;
+	}
+		.paulund_modal_box .paulund_modal_close{
+			position: relative;
+			top: 13%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+}
+
+
+	

@@ -1,0 +1,1376 @@
+/* ##### Info 1 ##### */
+.container .main{
+	position: relative;
+}
+
+
+
+	
+	.container .main .titulo{
+		position: absolute;
+		margin-left: 0%; 
+		margin-top: 2%; 
+	
+		width: 31%;
+	}
+		
+		.container .main .titulo .img-titulo{
+			width: 100%;
+		}
+		
+	.container .main .sub-titulo{
+		position: absolute;
+		margin-left: 36%; 
+		margin-top: 4%; 
+	
+		width: 23%;
+	}
+		
+		.container .main .sub-titulo .img-sub-titulo{
+			width: 100%;
+		}		
+	.container .main .sub-titulo-2{
+		position: absolute;
+		margin-left: 2%; 
+		margin-top: 11%; 
+	
+		width: 61%;
+	}
+		
+		.container .main .sub-titulo-2 .img-sub-titulo-2{
+			width: 100%;
+		}	
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 3%; 
+	
+		width: 3%;
+	}
+
+		.container .main .back .img-back{
+			/* width: 100%; */
+		}		
+		
+	.container .main .quienes{
+			position: absolute;
+			margin-left: 29%; 
+			margin-top: 30%; 
+			width: 18%;
+			cursor: pointer;
+	}
+
+		.container .main .quienes .img-quienes{
+			width: 100%;
+		}
+
+
+	.container .main .quienes-1{
+			position: absolute;
+			margin-left: 43%; 
+			margin-top: 31%; 
+		
+			width: 13%;
+		
+			cursor: pointer;
+	}
+
+		.container .main .quienes-1 .img-quienes-1{
+			width: 100%;
+		}
+
+
+		
+	.container .main .como{
+		position: absolute;
+		margin-left: 4%; 
+		margin-top: 30%; 
+		width: 13%;
+		cursor: pointer;
+	}
+
+		.container .main .como .img-como{
+			width: 100%;
+		}		
+
+
+	.container .main .como-1{
+		position: absolute;
+		margin-left: 14%; 
+		margin-top: 32%; 
+		width: 12%;
+		cursor: pointer;
+	}
+
+		.container .main .como-1 .img-como-1{
+			width: 100%;
+		}		
+
+	.container .main .cuando{
+		position: absolute;
+		margin-left: 33%; 
+		margin-top: 18%; 
+		width: 13%;
+		cursor: pointer;
+	}
+
+		.container .main .cuando .img-cuando{
+			width: 100%;
+		}		
+
+
+	.container .main .cuando-1{
+		position: absolute;
+		margin-left: 43.5%; 
+		margin-top: 18%; 
+		width: 10%;
+		cursor: pointer;
+	}
+
+		.container .main .cuando-1 .img-cuando-1{
+			width: 100%;
+		}	
+		
+	.container .main .que{
+		position: absolute;
+		margin-left: 15%; 
+		margin-top: 18%; 
+		width: 12%;
+		cursor: pointer;
+	}
+
+		.container .main .que .img-que{
+			width: 100%;
+		}		
+
+	.container .main .que-1{
+		position: absolute;
+		margin-left: 15%; 
+		margin-top: 21%; 
+		width: 14%;
+		cursor: pointer;
+	}
+
+		.container .main .que-1 .img-que-1{
+			width: 100%;
+		}	
+
+		.container .main .que-1{
+			position: absolute;
+			margin-left: 8%; 
+			margin-top: 21%; 
+			width: 20%;
+			cursor: pointer;
+		}
+
+		.container .main .que-1 .img-que-1{
+			width: 100%;
+		}		
+
+	.container .main .que-1{
+		position: absolute;
+		margin-left: 6%; 
+		margin-top: 20%; 
+		width: 13%;
+		cursor: pointer;
+	}
+
+		.container .main .que-1 .img-que-1{
+			width: 100%;
+		}	
+
+	.container .main .linea-1{
+		position: absolute;
+		margin-left: 91%; 
+		margin-top: 0%; 
+		width: 28.3px;
+}
+
+		.container .main .linea-1 .img-linea-1{
+			width: 100%;
+		}	
+
+	.container .main .linea-2{
+		position: absolute;
+		margin-left: 82%; 
+		margin-top: 0%; 
+		width: 29.6px;
+}
+
+		.container .main .linea-2 .img-linea-2{
+			width: 100%;
+		}			
+	.container .main .linea-3{
+		position: absolute;
+		margin-left: 73%; 
+		margin-top: 0%; 
+		width: 29.6px;
+}
+
+		.container .main .linea-3 .img-linea-3{
+			width: 100%;
+		}			
+
+
+
+	.container .main .a-1853{
+		position: absolute;
+		margin-left: 71.5%; 
+		margin-top: 3%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1853 .img-1853{
+			width: 100%;
+		}	
+		
+			.container .main .a-1857{
+		position: absolute;
+		margin-left: 71.5%; 
+		margin-top: 16%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1857 .img-1857{
+			width: 100%;
+		}	
+		
+			.container .main .a-1860{
+		position: absolute;
+		margin-left: 71.5%; 
+		margin-top: 33%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1860 .img-1860{
+			width: 100%;
+		}	
+		
+			.container .main .a-1912{
+		position: absolute;
+		margin-left: 80.5%; 
+		margin-top: 8%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1912 .img-1912{
+			width: 100%;
+		}	
+		
+		.container .main .a-1947{
+				position: absolute;
+				margin-left: 80.5%; 
+				margin-top: 20%; 
+				cursor: pointer;
+				width: 5%;
+		}
+
+		.container .main .a-1947 .img-1947{
+			width: 100%;
+		}	
+
+			.container .main .a-1949{
+		position: absolute;
+		margin-left: 80.5%; 
+		margin-top: 28%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1949 .img-1949{
+			width: 100%;
+		}
+
+		.container .main .a-1957{
+			position: absolute;
+			margin-left: 80.5%; 
+			margin-top: 38%; 
+			cursor: pointer;
+			width: 5%;
+		}
+
+		.container .main .a-1957 .img-1957{
+			width: 100%;
+		}
+
+			.container .main .a-1994{
+		position: absolute;
+		margin-left: 89.5%; 
+		margin-top: 12%; 
+		width: 5%;
+		cursor: pointer;
+}
+
+		.container .main .a-1994 .img-1994{
+			width: 100%;
+		}
+
+			.container .main .a-2009{
+		position: absolute;
+		margin-left: 89.5%; 
+		margin-top: 25%; 
+		width: 5%;
+		cursor: pointer;
+}
+
+		.container .main .a-2009 .img-2009{
+			width: 100%;
+		}
+
+			.container .main .a-2012{
+		position: absolute;
+		margin-left: 89.5%; 
+		margin-top: 34%; 
+		width: 5%;
+		cursor: pointer;
+}
+
+		.container .main .a-2012 .img-2012{
+			width: 100%;
+		}		
+		
+/***** MODALS STYLE ********/
+
+.modal-container-1{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -42%; 
+	width: 71%;
+}
+
+.modal-container-1 .icono{
+	position: absolute;
+	margin-left: -5%;
+	margin-top: -5%; 
+	width: 110%;
+}
+
+	.modal-container-1 .text-content{
+		position: absolute;
+		margin-left: 5%;
+		margin-top: -3%; 
+		width: 110%;
+		overflow-y: scroll;
+		max-height: 300px;
+		text-align: justify;
+		padding-right: 28px;
+}
+	
+.modal-container-2 .icono{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -176%; 
+	width: 90%;
+}
+
+	.modal-container-2 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -58%; 
+		width: 80%;
+		overflow-y: scroll;
+		max-height: 300px;
+	
+		padding-right: 10px;
+}
+
+.modal-container-3 .icono{
+	position: absolute;
+	margin-left: 20%;
+	margin-top: -179%; 
+	width: 90%;
+}
+
+	.modal-container-3 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -58%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 300px;
+		text-align: justify;
+		padding-right: 28px;
+	}
+	
+.modal-container-4 .icono-1{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -173%; 
+	width: 90%;
+}
+
+.modal-container-4 .icono-2{
+	position: absolute;
+	margin-left: 70%;
+	margin-top: -153%; 
+	width: 50%;
+}
+
+	.modal-container-4 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -59%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 300px;
+		text-align: justify;
+		padding-right: 28px;
+	}		
+	
+.text-style-1{
+	color: #65A9DF;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-2{
+	color: #E80047;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-3{
+	color: #80C0AE;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-4{
+	color: #80C0AE;	
+	font-size:15px;
+}
+.text-style-5{
+	color: #DF8E2F;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-6{
+	color: #DF8E2F;	
+	font-size:15px;
+}
+.text-style-7{
+	color: #6FB5DB;	
+	text-transform: uppercase;
+	font-size: 24px;
+}
+
+.text-content-2{
+	text-align: right;
+}
+
+.modal-container-1853 .icono-1853{
+	position: absolute;
+
+	margin-left: 229%;
+
+	margin-top: -171%;
+
+	width: 120%;
+}
+
+	.modal-container-1853 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -60%; 
+		width: 64%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+}
+
+.modal-container-1857 .icono-1857{
+	position: absolute;
+
+	margin-left: 226%;
+
+	margin-top: -175%;
+
+	width: 120%;
+}
+
+	.modal-container-1857 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -59%; 
+		width: 61%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+
+.modal-container-1860 .icono-1860{
+	position: absolute;
+
+	margin-left: 230%;
+
+	margin-top: -167%;
+
+	width: 120%;
+}
+
+	.modal-container-1860 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -56%; 
+		width: 66%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 14px;
+	}
+
+.modal-container-1912 .icono-1912{
+	position: absolute;
+
+	margin-left: 224%;
+
+	margin-top: -170%;
+
+	width: 120%;
+}
+
+	.modal-container-1912 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 60%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+
+.modal-container-1947 .icono-1947{
+	position: absolute;
+
+	margin-left: 230%;
+
+	margin-top: -171%;
+
+	width: 120%;
+}
+
+	.modal-container-1947 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 63%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}	
+.modal-container-1949 .icono-1949{
+	position: absolute;
+
+	margin-left: 232%;
+
+	margin-top: -165%;
+
+	width: 120%;
+}
+
+	.modal-container-1949 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -61%; 
+		width: 67%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+	
+.modal-container-1957 .icono-1957{
+	position: absolute;
+
+	margin-left: 229%;
+
+	margin-top: -169%;
+
+	width: 120%;
+}
+
+	.modal-container-1957 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -61%; 
+		width: 65%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+	
+.modal-container-1994 .icono-1994{
+	position: absolute;
+
+	margin-left: 234%;
+
+	margin-top: -166%;
+
+	width: 120%;
+}
+
+	.modal-container-1994 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -61%; 
+		width: 67%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+	
+.modal-container-2009 .icono-2009{
+	position: absolute;
+
+	margin-left: 221%;
+
+	margin-top: -166%;
+
+	width: 120%;
+}
+
+	.modal-container-2009 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -61%; 
+		width: 63%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+	
+.modal-container-2012 .icono-2012{
+	position: absolute;
+
+	margin-left: 227%;
+
+	margin-top: -170%;
+
+	width: 120%;
+}
+
+	.modal-container-2012 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 64%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 15px;
+	}
+	
+		.paulund_modal_box{
+		position: absolute;
+		left: 19%;
+		top: 7%;
+		height: 73%;
+		width: 64%;
+		z-index: 50;
+	}
+		.paulund_modal_box .paulund_modal_close{
+			position: relative;
+			top: 14%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+	
+@media (max-height: 442px) {
+.container .main{
+	position: relative;
+}
+
+
+
+	
+	.container .main .titulo{
+		position: absolute;
+		margin-left: 0%; 
+		margin-top: 2%; 
+	
+		width: 31%;
+	}
+		
+		.container .main .titulo .img-titulo{
+			width: 100%;
+		}
+		
+	.container .main .sub-titulo{
+		position: absolute;
+		margin-left: 36%; 
+		margin-top: 4%; 
+	
+		width: 23%;
+	}
+		
+		.container .main .sub-titulo .img-sub-titulo{
+			width: 100%;
+		}		
+	.container .main .sub-titulo-2{
+		position: absolute;
+		margin-left: -4%; 
+		margin-top: 10%; 
+	
+		width: 77%;
+	}
+		
+		.container .main .sub-titulo-2 .img-sub-titulo-2{
+			width: 100%;
+		}	
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 3%; 
+	
+		width: 3%;
+	}
+
+		.container .main .back .img-back{
+			/* width: 100%; */
+		}		
+		
+	.container .main .quienes{
+			position: absolute;
+			margin-left: 29%; 
+			margin-top: 30%; 
+			width: 18%;
+			cursor: pointer;
+	}
+
+		.container .main .quienes .img-quienes{
+			width: 100%;
+		}
+
+
+	.container .main .quienes-1{
+			position: absolute;
+			margin-left: 43%; 
+			margin-top: 31%; 
+		
+			width: 13%;
+		
+			cursor: pointer;
+	}
+
+		.container .main .quienes-1 .img-quienes-1{
+			width: 100%;
+		}
+
+
+		
+	.container .main .como{
+		position: absolute;
+		margin-left: 4%; 
+		margin-top: 30%; 
+		width: 13%;
+		cursor: pointer;
+	}
+
+		.container .main .como .img-como{
+			width: 100%;
+		}		
+
+
+	.container .main .como-1{
+		position: absolute;
+		margin-left: 14%; 
+		margin-top: 32%; 
+		width: 12%;
+		cursor: pointer;
+	}
+
+		.container .main .como-1 .img-como-1{
+			width: 100%;
+		}		
+
+	.container .main .cuando{
+		position: absolute;
+		margin-left: 33%; 
+		margin-top: 18%; 
+		width: 13%;
+		cursor: pointer;
+	}
+
+		.container .main .cuando .img-cuando{
+			width: 100%;
+		}		
+
+
+	.container .main .cuando-1{
+		position: absolute;
+		margin-left: 43.5%; 
+		margin-top: 18%; 
+		width: 10%;
+		cursor: pointer;
+	}
+
+		.container .main .cuando-1 .img-cuando-1{
+			width: 100%;
+		}	
+		
+	.container .main .que{
+		position: absolute;
+		margin-left: 15%; 
+		margin-top: 18%; 
+		width: 12%;
+		cursor: pointer;
+	}
+
+		.container .main .que .img-que{
+			width: 100%;
+		}		
+
+	.container .main .que-1{
+		position: absolute;
+		margin-left: 15%; 
+		margin-top: 21%; 
+		width: 14%;
+		cursor: pointer;
+	}
+
+		.container .main .que-1 .img-que-1{
+			width: 100%;
+		}	
+
+		.container .main .que-1{
+			position: absolute;
+			margin-left: 8%; 
+			margin-top: 21%; 
+			width: 20%;
+			cursor: pointer;
+		}
+
+		.container .main .que-1 .img-que-1{
+			width: 100%;
+		}		
+
+	.container .main .que-1{
+		position: absolute;
+		margin-left: 6%; 
+		margin-top: 20%; 
+		width: 13%;
+		cursor: pointer;
+	}
+
+		.container .main .que-1 .img-que-1{
+			width: 100%;
+		}	
+
+	.container .main .linea-1{
+		position: absolute;
+		margin-left: 91%; 
+		margin-top: -0.5%; 
+		width: 19.9px;
+}
+
+		.container .main .linea-1 .img-linea-1{
+			width: 100%;
+		}	
+
+	.container .main .linea-2{
+		position: absolute;
+		margin-left: 82%; 
+		margin-top: 0%; 
+		width: 20.5px;
+}
+
+		.container .main .linea-2 .img-linea-2{
+			width: 100%;
+		}			
+	.container .main .linea-3{
+		position: absolute;
+		margin-left: 73%; 
+		margin-top: 0%; 
+		width: 20.5px;
+}
+
+		.container .main .linea-3 .img-linea-3{
+			width: 100%;
+		}			
+
+
+
+	.container .main .a-1853{
+		position: absolute;
+		margin-left: 71.5%; 
+		margin-top: 3%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1853 .img-1853{
+			width: 100%;
+		}	
+		
+			.container .main .a-1857{
+		position: absolute;
+		margin-left: 71.5%; 
+		margin-top: 14%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1857 .img-1857{
+			width: 100%;
+		}	
+		
+			.container .main .a-1860{
+		position: absolute;
+		margin-left: 71.5%; 
+		margin-top: 29%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1860 .img-1860{
+			width: 100%;
+		}	
+		
+			.container .main .a-1912{
+		position: absolute;
+		margin-left: 80.5%; 
+		margin-top: 7%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1912 .img-1912{
+			width: 100%;
+		}	
+		
+		.container .main .a-1947{
+				position: absolute;
+				margin-left: 80.5%; 
+				margin-top: 19%; 
+				cursor: pointer;
+				width: 5%;
+		}
+
+		.container .main .a-1947 .img-1947{
+			width: 100%;
+		}	
+
+			.container .main .a-1949{
+		position: absolute;
+		margin-left: 80.5%; 
+		margin-top: 26%; 
+		cursor: pointer;
+		width: 5%;
+}
+
+		.container .main .a-1949 .img-1949{
+			width: 100%;
+		}
+
+		.container .main .a-1957{
+			position: absolute;
+			margin-left: 80.5%; 
+			margin-top: 35%; 
+			cursor: pointer;
+			width: 5%;
+		}
+
+		.container .main .a-1957 .img-1957{
+			width: 100%;
+		}
+
+			.container .main .a-1994{
+		position: absolute;
+		margin-left: 89.5%; 
+		margin-top: 9%; 
+		width: 5%;
+		cursor: pointer;
+}
+
+		.container .main .a-1994 .img-1994{
+			width: 100%;
+		}
+
+			.container .main .a-2009{
+		position: absolute;
+		margin-left: 89.5%; 
+		margin-top: 23%; 
+		width: 5%;
+		cursor: pointer;
+}
+
+		.container .main .a-2009 .img-2009{
+			width: 100%;
+		}
+
+			.container .main .a-2012{
+		position: absolute;
+		margin-left: 89.5%; 
+		margin-top: 31%; 
+		width: 5%;
+		cursor: pointer;
+}
+
+		.container .main .a-2012 .img-2012{
+			width: 100%;
+		}		
+		
+/***** MODALS STYLE ********/
+
+.modal-container-1{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -42%; 
+	width: 71%;
+}
+
+.modal-container-1 .icono{
+	position: absolute;
+	margin-left: -5%;
+	margin-top: -5%; 
+	width: 110%;
+}
+
+	.modal-container-1 .text-content{
+		position: absolute;
+		margin-left: 5%;
+		margin-top: -3%; 
+		width: 110%;
+		overflow-y: scroll;
+		max-height: 300px;
+		text-align: justify;
+		padding-right: 28px;
+}
+	
+.modal-container-2 .icono{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -176%; 
+	width: 90%;
+}
+
+	.modal-container-2 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -58%; 
+		width: 80%;
+		overflow-y: scroll;
+		max-height: 300px;
+	}
+
+.modal-container-3 .icono{
+	position: absolute;
+	margin-left: 20%;
+	margin-top: -179%; 
+	width: 90%;
+}
+
+	.modal-container-3 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -58%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 300px;
+		text-align: justify;
+		padding-right: 28px;
+	}
+	
+.modal-container-4 .icono-1{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -173%; 
+	width: 90%;
+}
+
+.modal-container-4 .icono-2{
+	position: absolute;
+	margin-left: 70%;
+	margin-top: -153%; 
+	width: 50%;
+}
+
+	.modal-container-4 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -59%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 300px;
+		text-align: justify;
+		padding-right: 28px;
+	}		
+	
+.text-style-1{
+	color: #65A9DF;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-2{
+	color: #E80047;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-3{
+	color: #80C0AE;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-4{
+	color: #80C0AE;	
+	font-size:15px;
+}
+.text-style-5{
+	color: #DF8E2F;	
+	text-transform: uppercase;
+	font-size:15px;
+}
+.text-style-6{
+	color: #DF8E2F;	
+	font-size:15px;
+}
+.text-style-7{
+	color: #6FB5DB;	
+	text-transform: uppercase;
+	font-size: 19px;
+}
+
+.text-content-2{
+	text-align: right;
+}
+
+.modal-container-1853 .icono-1853{
+	position: absolute;
+
+	margin-left: 222%;
+
+	margin-top: -169%;
+
+	width: 120%;
+}
+
+	.modal-container-1853 .text-content{
+		position: absolute;
+		margin-left: -20%;
+		margin-top: -58%; 
+		width: 55%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+}
+
+.modal-container-1857 .icono-1857{
+	position: absolute;
+
+	margin-left: 220%;
+
+	margin-top: -174%;
+
+	width: 120%;
+}
+
+	.modal-container-1857 .text-content{
+		position: absolute;
+		margin-left: -20%;
+		margin-top: -58%; 
+		width: 55%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+
+.modal-container-1860 .icono-1860{
+	position: absolute;
+
+	margin-left: 216%;
+
+	margin-top: -171%;
+
+	width: 120%;
+}
+
+	.modal-container-1860 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 55%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+
+.modal-container-1912 .icono-1912{
+	position: absolute;
+
+	margin-left: 222%;
+
+	margin-top: -173%;
+
+	width: 120%;
+}
+
+	.modal-container-1912 .text-content{
+		position: absolute;
+		margin-left: -20%;
+		margin-top: -58%; 
+		width: 55%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+
+.modal-container-1947 .icono-1947{
+	position: absolute;
+
+	margin-left: 217%;
+
+	margin-top: -172%;
+
+	width: 120%;
+}
+
+	.modal-container-1947 .text-content{
+		position: absolute;
+		margin-left: -20%;
+		margin-top: -58%; 
+		width: 55%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}	
+.modal-container-1949 .icono-1949{
+	position: absolute;
+
+	margin-left: 220%;
+
+	margin-top: -169%;
+
+	width: 120%;
+}
+
+	.modal-container-1949 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 62%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+	
+.modal-container-1957 .icono-1957{
+	position: absolute;
+
+	margin-left: 214%;
+
+	margin-top: -174%;
+
+	width: 120%;
+}
+
+	.modal-container-1957 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 59%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+	
+.modal-container-1994 .icono-1994{
+	position: absolute;
+
+	margin-left: 222%;
+
+	margin-top: -173%;
+
+	width: 120%;
+}
+
+	.modal-container-1994 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -60%; 
+		width: 61%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+	
+.modal-container-2009 .icono-2009{
+	position: absolute;
+
+	margin-left: 216%;
+
+	margin-top: -172%;
+
+	width: 120%;
+}
+
+	.modal-container-2009 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -58%; 
+		width: 60%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+	
+.modal-container-2012 .icono-2012{
+	position: absolute;
+
+	margin-left: 223%;
+
+	margin-top: -172%;
+
+	width: 120%;
+}
+
+	.modal-container-2012 .text-content{
+		position: absolute;
+		margin-left: -24%;
+		margin-top: -56%; 
+		width: 62%;
+		max-height: 300px;
+		text-align: justify;
+	
+		font-size: 13px;
+	}
+	
+		.paulund_modal_box{
+		position: absolute;
+		left: 10%;
+		top: -8%;
+		height: 100%;
+		width: 82%;
+		z-index: 50;
+	}
+		.paulund_modal_box .paulund_modal_close{
+			position: relative;
+			top: 14%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+}

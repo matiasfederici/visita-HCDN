@@ -1,0 +1,350 @@
+@-webkit-keyframes anim_titles {
+    0% {
+        opacity:0.0;
+    }
+    10% {
+        opacity:0.1;
+    }
+    20% {
+        opacity:0.2;
+    }
+    30% {
+        opacity:0.3;
+    }
+    40% {
+        opacity:0.4;
+    }
+    50% {
+        opacity:0.5;
+    }
+    60% {
+        opacity:0.6;
+    }
+    70% {
+        opacity:0.7;
+    }
+    80% {
+        opacity:0.8;
+    }
+    90% {
+        opacity:0.9;
+    }
+    100% {
+        opacity:1;
+    }
+}
+@-moz-keyframes anim_titles {
+    0% {
+        opacity:0.0;
+    }
+    10% {
+        opacity:0.1;
+    }
+    20% {
+        opacity:0.2;
+    }
+    30% {
+        opacity:0.3;
+    }
+    40% {
+        opacity:0.4;
+    }
+    50% {
+        opacity:0.5;
+    }
+    60% {
+        opacity:0.6;
+    }
+    70% {
+        opacity:0.7;
+    }
+    80% {
+        opacity:0.8;
+    }
+    90% {
+        opacity:0.9;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+@keyframes anim_titles {
+    0% {
+        opacity:0.0;
+    }
+    10% {
+        opacity:0.1;
+    }
+    20% {
+        opacity:0.2;
+    }
+    30% {
+        opacity:0.3;
+    }
+    40% {
+        opacity:0.4;
+    }
+    50% {
+        opacity:0.5;
+    }
+    60% {
+        opacity:0.6;
+    }
+    70% {
+        opacity:0.7;
+    }
+    80% {
+        opacity:0.8;
+    }
+    90% {
+        opacity:0.9;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+.content .slide .objeto-2{
+    opacity:1;
+    /* css3 animation */
+	-webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 2s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+	
+}
+
+.content .slide .objeto-3{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 2s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-4{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 4s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 4s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-5{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 4s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 4s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-6{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 66s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 6s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-7{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 6s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 6s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-8{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 8s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 8s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-9{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 8s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 8s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-10{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 10s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 10s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-11{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 10s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 10s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+
+.content .slide .objeto-12{
+    opacity:1;
+    /* css3 animation */
+   -webkit-animation-name: anim_titles;
+    -webkit-animation-duration: 5.0s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-delay: 12s;
+    -webkit-animation-play-state: running;
+    -webkit-animation-fill-mode: backwards;
+
+    -moz-animation-name: anim_titles;
+    -moz-animation-duration: 5.0s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-direction: normal;
+    -moz-animation-delay: 12s;
+    -moz-animation-play-state: running;
+    -moz-animation-fill-mode: forwards;
+}
+

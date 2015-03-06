@@ -1,0 +1,110 @@
+/* ##### Info 3 ##### */
+	
+	.texto-style-1{
+		-webkit-transform: rotate(270deg);   
+		-moz-transform: rotate(270deg);
+		-ms-transform: rotate(270deg);
+		-o-transform: rotate(270deg);
+		transform: rotate(303deg);
+		text-align: left;
+		color: #FFF;
+		font-size: 20px;
+		background-color: #616265;
+	
+		margin-top: 32%;
+}	
+
+	.container .main{
+		position: relative;
+	}
+		
+		.container .main .titulo{
+			position: absolute;
+			margin-left: 63%; 
+			margin-top: 38%; 
+		
+			width: 35%;
+}
+			
+			.container .main .titulo .img-titulo{
+				width: 100%;
+			}
+			
+		.container .main .galeria{
+			position: absolute;
+			margin-left: 12%; 
+			margin-top: 3%; 
+		
+			width: 75%;
+}
+			
+			.container .main .galeria .img-galeria{
+				width: 111%;
+			}
+
+		.container .main .back{
+			position: absolute;
+			margin-left: 1%; 
+			margin-top: 2%; 		
+			
+}
+	
+			.container .main .back .img-back{
+				width: 100%;
+			}
+			
+@media (max-height: 442px) {
+
+	.texto-style-1{
+		-webkit-transform: rotate(270deg);   
+		-moz-transform: rotate(270deg);
+		-ms-transform: rotate(270deg);
+		-o-transform: rotate(270deg);
+		transform: rotate(303deg);
+		text-align: left;
+		color: #FFF;
+		font-size: 20px;
+		background-color: #616265;
+	
+		margin-top: 32%;
+}	
+
+	.container .main{
+		position: relative;
+	}
+		
+		.container .main .titulo{
+			position: absolute;
+			margin-left: 65%; 
+			margin-top: 36%; 
+		
+			width: 30%;
+}
+			
+			.container .main .titulo .img-titulo{
+				width: 99%;
+			}
+			
+		.container .main .galeria{
+			position: absolute;
+			margin-left: 13%; 
+			margin-top: 2%; 
+		
+			width: 77%;
+}
+			
+			.container .main .galeria .img-galeria{
+				width: 80%;
+			}
+
+		.container .main .back{
+			position: absolute;
+			margin-left: 1%; 
+			margin-top: 2%; 		
+			
+}
+	
+			.container .main .back .img-back{
+				width: 100%;
+			}
+}

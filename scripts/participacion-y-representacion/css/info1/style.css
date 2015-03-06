@@ -1,0 +1,804 @@
+/* ##### participacion-y-representacion - Info1 ##### */
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+	
+	.rotate-1{
+		-webkit-transform: rotate(-14deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(-14deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(-14deg);  /* IE 9 */
+		-o-transform: rotate(-14deg);  /* Opera 10.50-12.00 */
+		transform: rotate(-7deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+	
+	.rotate-2{
+		-webkit-transform: rotate(6deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(6deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(6deg);  /* IE 9 */
+		-o-transform: rotate(6deg);  /* Opera 10.50-12.00 */
+		transform: rotate(6deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+
+	.texto-img{
+		position: absolute;
+		margin-left: -2%; 
+		margin-top: 33%; 
+	}
+	
+	.texto-style-1{
+		text-align: left;
+		color: #FFFFFF;
+		font-size: 260%;
+		background-color: #6eb5db;
+		padding: 10px 15px;
+	}
+	
+	.texto-style-2{
+		text-align: left;
+		color: #727176;
+		font-size: 24px;
+		padding: 0px 20px;
+	}
+	
+	.texto-style-3{
+		color: #FFFFFF;
+		background-color: #727176;
+	}
+	
+	.texto-style-4{
+		color: #FFFFFF;
+		background-color: #727176;
+		font-size: 8px;
+		padding: 5px;
+	}
+
+	.container{
+		background-image: url("../../images/info1/fondo.png");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100% 100%;	
+	
+		width: 100%;
+		height: 100vh;
+}
+
+	.container .main{
+		position: relative;
+	}
+	
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 2%; 
+	}
+
+		.container .main .back .img-back{
+			width: 90%;
+		
+}
+	
+		.container .main .bottom-1{
+			position: absolute;
+			margin-left: 0%; 
+			margin-top: 36%; 
+		}
+			
+			.container .main .bottom-1 .img-bottom-1{
+				width: 100%;
+			}
+		
+		.container .main .tipos-sesiones{
+			position: absolute;
+			margin-left: 66%; 
+			margin-top: 18%; 
+		}
+			
+			.container .main .tipos-sesiones .img-tipos-sesiones{
+				width: 100%;
+			}
+
+		.container .main .tipos-sesiones-1{
+			position: absolute;
+			margin-left: 77.5%; 
+			margin-top: 19%; 
+		}
+			
+			.container .main .tipos-sesiones-1 .img-tipos-sesiones-1{
+				width: 100%;
+			}
+			
+		.container .main .quorum{
+			position: absolute;
+			margin-left: 59%; 
+			margin-top: 2%; 
+		}
+			
+			.container .main .quorum .img-quorum{
+				width: 100%;
+			}
+
+		.container .main .quorum-1{
+			position: absolute;
+			margin-left: 51%; 
+			margin-top: 3%; 
+		}
+			
+			.container .main .quorum-1 .img-quorum-1{
+				width: 100%;
+			}
+			
+		.container .main .periodos-sesion{
+			position: absolute;
+			margin-left: 73%; 
+			margin-top: 3%; 
+		}
+			
+			.container .main .periodos-sesion .img-periodos-sesion{
+				width: 100%;
+			}
+
+		.container .main .periodos-sesion-1{
+			position: absolute;
+			margin-left: 81.5%; 
+			margin-top: 2%; 
+		}
+			
+			.container .main .periodos-sesion-1 .img-periodos-sesion-1{
+				width: 100%;
+			}
+			
+		.container .main .debate-consideraciones{
+			position: absolute;
+			margin-left: 33%; 
+			margin-top: 16%; 
+		}
+			
+			.container .main .debate-consideraciones .img-debate-consideraciones{
+				width: 100%;
+			}
+
+
+		.container .main .debate-consideraciones-1{
+			position: absolute;
+			margin-left: 41.5%; 
+			margin-top: 14%; 
+		}
+			
+			.container .main .debate-consideraciones-1 .img-debate-consideraciones-1{
+				width: 100%;
+			}
+			
+		.container .main .votacion{
+			position: absolute;
+			margin-left: 35%; 
+			margin-top: 2%; 
+		}
+			
+			.container .main .votacion .img-votacion{
+				width: 100%;
+			}
+
+
+		.container .main .votacion-1{
+			position: absolute;
+			margin-left: 27.5%; 
+			margin-top: 4%; 
+		}
+			
+			.container .main .votacion-1 .img-votacion-1{
+				width: 100%;
+			}
+		
+		.container .main .text-group-1{
+			position: absolute;
+			margin-left: 26%; 
+			margin-top: 6%; 
+		
+			width: 50%;
+}
+		
+		.container .main .texto-1{
+			position: absolute;
+			margin-left: 3%; 
+			margin-top: 5%; 
+		}
+		
+		.container .main .texto-2{
+			position: absolute;
+			margin-left: 3%; 
+			margin-top: 35.5%; 
+		}
+		
+		.container .main .texto-3{
+			position: absolute;
+			margin-left: 42%; 
+			margin-top: 8%; 
+		}
+		
+		.container .main .texto-4{
+			position: absolute;
+			margin-left: 40%; 
+			margin-top: 14%; 
+		}
+		
+		.container .main .texto-5{
+			position: absolute;
+			margin-left: 60%; 
+			margin-top: 21%; 
+		}
+	
+/***** MODALS STYLE ********/
+
+.modal-container-1{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -42%; 
+	width: 71%;
+}
+
+.modal-container-1 .icono{
+	position: absolute;
+	margin-left: -20%;
+	margin-top: 0%; 
+	width: 120%;
+}
+
+	.modal-container-1 .text-content{
+		position: absolute;
+		margin-left: 5%;
+		margin-top: -3%; 
+		width: 110%;
+		overflow-y: scroll;
+		max-height: 300px;
+	}
+	
+.modal-container-2 .icono{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -162%; 
+	width: 79%;
+}
+
+	.modal-container-2 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -56%; 
+		width: 80%;
+		max-height: 300px;
+	}
+
+.modal-container-3 .icono{
+	position: absolute;
+	margin-left: 20%;
+	margin-top: -170%; 
+	width: 95%;
+}
+
+	.modal-container-3 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -60%; 
+		width: 76%;
+		max-height: 300px;
+	}
+	
+.modal-container-4 .icono-1{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -161%; 
+	width: 50%;
+}
+
+.modal-container-4 .icono-2{
+	position: absolute;
+	margin-left: 20%;
+	margin-top: -180%; 
+	width: 100%;
+}
+
+	.modal-container-4 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -59%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 300px;
+	}
+	
+.modal-container-5 {
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -39%; 
+	width: 85%;
+}
+
+	.modal-container-5 .icon-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .icon-4{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .icon-5{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-1{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 0%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-2{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -1%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 4%; 
+		width: 85%;
+	}
+	
+	.texto-style-5{
+		color: #943D57;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-6{
+		color: #80C0AE;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-7{
+		color: #FF0053;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-8{
+		color: #73B2FF;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-9{
+		color: #DF8E2F;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+
+	.paulund_modal_box_1{
+		position: absolute;
+		left: 14%;
+		top: 0%;
+		height: 100%;
+		width: 70%;
+		z-index: 50;
+	}
+		.paulund_modal_box_1 .paulund_modal_close{
+			position: relative;
+			top: 11%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+		
+@media (max-height: 442px) {
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+	
+	.rotate-1{
+		-webkit-transform: rotate(-14deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(-14deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(-14deg);  /* IE 9 */
+		-o-transform: rotate(-14deg);  /* Opera 10.50-12.00 */
+		transform: rotate(-7deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+	
+	.rotate-2{
+		-webkit-transform: rotate(6deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(6deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(6deg);  /* IE 9 */
+		-o-transform: rotate(6deg);  /* Opera 10.50-12.00 */
+		transform: rotate(6deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+
+	.texto-img{
+		position: absolute;
+		margin-left: -2%; 
+		margin-top: 33%; 
+	}
+	
+	.texto-style-1{
+		text-align: left;
+		color: #FFFFFF;
+		font-size: 260%;
+		background-color: #6eb5db;
+		padding: 10px 15px;
+	}
+	
+	.texto-style-2{
+		text-align: left;
+		color: #727176;
+		font-size: 18px;
+		padding: 0px 20px;
+	}
+	
+	.texto-style-3{
+		color: #FFFFFF;
+		background-color: #727176;
+	}
+	
+	.texto-style-4{
+		color: #FFFFFF;
+		background-color: #727176;
+		font-size: 8px;
+		padding: 5px;
+	}
+
+	.container{
+		background-image: url("../../images/info1/fondo.png");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100% 100%;	
+	
+		width: 100%;
+		height: 100vh;
+}
+
+	.container .main{
+		position: relative;
+	}
+	
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 2%; 
+	}
+
+		.container .main .back .img-back{
+			width: 90%;
+		
+}
+	
+		.container .main .bottom-1{
+			position: absolute;
+			margin-left: 0%; 
+			margin-top: 36%; 
+		}
+			
+			.container .main .bottom-1 .img-bottom-1{
+				width: 100%;
+			}
+		
+		.container .main .tipos-sesiones{
+			position: absolute;
+			margin-left: 68%; 
+			margin-top: 18%; 
+		}
+			
+			.container .main .tipos-sesiones .img-tipos-sesiones{
+				width: 100%;
+			}
+
+		.container .main .tipos-sesiones-1{
+			position: absolute;
+			margin-left: 83.3%; 
+			margin-top: 19%; 
+		}
+			
+			.container .main .tipos-sesiones-1 .img-tipos-sesiones-1{
+				width: 100%;
+			}
+			
+		.container .main .quorum{
+			position: absolute;
+			margin-left: 59%; 
+			margin-top: 2%; 
+		}
+			
+			.container .main .quorum .img-quorum{
+				width: 100%;
+			}
+
+		.container .main .quorum-1{
+			position: absolute;
+			margin-left: 49%; 
+			margin-top: 3%; 
+		}
+			
+			.container .main .quorum-1 .img-quorum-1{
+				width: 100%;
+			}
+			
+		.container .main .periodos-sesion{
+			position: absolute;
+			margin-left: 73%; 
+			margin-top: 3%; 
+		}
+			
+			.container .main .periodos-sesion .img-periodos-sesion{
+				width: 100%;
+			}
+
+		.container .main .periodos-sesion-1{
+			position: absolute;
+			margin-left: 84.2%; 
+			margin-top: 1%; 
+		}
+			
+			.container .main .periodos-sesion-1 .img-periodos-sesion-1{
+				width: 100%;
+			}
+			
+		.container .main .debate-consideraciones{
+			position: absolute;
+			margin-left: 33%; 
+			margin-top: 16%; 
+		}
+			
+			.container .main .debate-consideraciones .img-debate-consideraciones{
+				width: 100%;
+			}
+
+
+		.container .main .debate-consideraciones-1{
+			position: absolute;
+			margin-left: 44.5%; 
+			margin-top: 14%; 
+		}
+			
+			.container .main .debate-consideraciones-1 .img-debate-consideraciones-1{
+				width: 100%;
+			}
+			
+		.container .main .votacion{
+			position: absolute;
+			margin-left: 35%; 
+			margin-top: 2%; 
+		}
+			
+			.container .main .votacion .img-votacion{
+				width: 100%;
+			}
+
+
+		.container .main .votacion-1{
+			position: absolute;
+			margin-left: 25%; 
+			margin-top: 4%; 
+		}
+			
+			.container .main .votacion-1 .img-votacion-1{
+				width: 100%;
+			}
+		
+		.container .main .text-group-1{
+			position: absolute;
+			margin-left: 26%; 
+			margin-top: 6%; 
+		
+			width: 50%;
+}
+		
+		.container .main .texto-1{
+			position: absolute;
+			margin-left: 3%; 
+			margin-top: 5%; 
+		}
+		
+		.container .main .texto-2{
+			position: absolute;
+			margin-left: 3%; 
+			margin-top: 33.5%; 
+		}
+		
+		.container .main .texto-3{
+			position: absolute;
+			margin-left: 42%; 
+			margin-top: 8%; 
+		}
+		
+		.container .main .texto-4{
+			position: absolute;
+			margin-left: 40%; 
+			margin-top: 14%; 
+		}
+		
+		.container .main .texto-5{
+			position: absolute;
+			margin-left: 60%; 
+			margin-top: 21%; 
+		}
+	
+/***** MODALS STYLE ********/
+
+.modal-container-1{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -42%; 
+	width: 71%;
+}
+
+.modal-container-1 .icono{
+	position: absolute;
+	margin-left: -20%;
+	margin-top: 0%; 
+	width: 120%;
+}
+
+	.modal-container-1 .text-content{
+		position: absolute;
+		margin-left: 5%;
+		margin-top: -3%; 
+		width: 110%;
+		overflow-y: scroll;
+		max-height: 300px;
+	}
+	
+.modal-container-2 .icono{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -162%; 
+	width: 79%;
+}
+
+	.modal-container-2 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -56%; 
+		width: 80%;
+		max-height: 300px;
+	}
+
+.modal-container-3 .icono{
+	position: absolute;
+	margin-left: 20%;
+	margin-top: -170%; 
+	width: 95%;
+}
+
+	.modal-container-3 .text-content{
+		position: absolute;
+		margin-left: 6%;
+		margin-top: -60%; 
+		width: 76%;
+		max-height: 300px;
+	}
+	
+.modal-container-4 .icono-1{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -161%; 
+	width: 50%;
+}
+
+.modal-container-4 .icono-2{
+	position: absolute;
+	margin-left: 20%;
+	margin-top: -180%; 
+	width: 100%;
+}
+
+	.modal-container-4 .text-content{
+		position: absolute;
+		margin-left: 8%;
+		margin-top: -59%; 
+		width: 76%;
+		overflow-y: scroll;
+		max-height: 300px;
+	}
+	
+.modal-container-5 {
+	position: absolute;
+	margin-left: 10%;
+	margin-top: -39%; 
+	width: 85%;
+}
+
+	.modal-container-5 .icon-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+
+	.modal-container-5 .icon-4{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .icon-5{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -39%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-1{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 0%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-2{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -1%; 
+		width: 85%;
+	}
+	
+	.modal-container-5 .texto-3{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: 4%; 
+		width: 85%;
+	}
+	
+	.texto-style-5{
+		color: #943D57;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-6{
+		color: #80C0AE;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-7{
+		color: #FF0053;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-8{
+		color: #73B2FF;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.texto-style-9{
+		color: #DF8E2F;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+
+	.paulund_modal_box_1{
+		position: absolute;
+		left: 10%;
+		top: -8%;
+		height: 100%;
+		width: 82%;
+		z-index: 50;
+	}
+		.paulund_modal_box_1 .paulund_modal_close{
+			position: relative;
+			top: 13%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+}

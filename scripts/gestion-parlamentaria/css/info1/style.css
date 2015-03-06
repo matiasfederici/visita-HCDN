@@ -1,0 +1,463 @@
+.style-text{
+	color: #7F7F7F;
+	text-align: right;
+	font-size: 21px;
+}
+
+.style-text-2{
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 16px;
+}
+
+.style-text-3{
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 17px;
+}
+
+.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 5%; 
+}	
+
+.container .main .procesos{
+	position: absolute;
+	margin-left: -12%; 
+	margin-top: 8%; 
+	width: 113%;
+}
+
+	.container .main .procesos .float-left{
+		float:left;
+	}
+	
+	.container .main .procesos .img-extremos{
+		width: 100%;
+	}
+
+	.container .main .procesos .img-internos{
+		width: 100%;
+	}
+	
+	.container .main .procesos .img-flechas{
+		width: 100%;
+	}
+	
+	.container .main .procesos .esquema-basico-1{
+		margin-top: 1%;
+		width: 10%;		
+	}
+	.container .main .procesos .esquema-basico-2{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-3{
+		margin-top: 2.5%;
+		margin-left: 0.5%;
+		width: 11%;
+	}	
+	.container .main .procesos .esquema-basico-4{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-5{
+		margin-top: 2.6%;
+		width: 7.5%;
+		margin-left: 0.5%;
+}
+	.container .main .procesos .esquema-basico-6{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-7{
+		margin-top: 2.5%;
+		margin-left: 0.5%;
+		width: 12%;
+	}
+	.container .main .procesos .esquema-basico-8{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-9{
+		margin-top: 3.5%;
+		margin-left: 0.5%;
+		width: 11%;
+	}
+	.container .main .procesos .esquema-basico-10{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}	
+	.container .main .procesos .esquema-basico-11{
+		margin-top: 3%;
+		margin-left: 0.5%;
+		width: 11%;
+	}
+	.container .main .procesos .esquema-basico-12{
+		margin-top: 11%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-13{
+		margin-top: 1%;
+		margin-left: 0.5%;
+		width: 9%;
+	}
+	.container .main .procesos .esquema-basico-14{
+		margin-top: 1%;
+		margin-left: 0.5%;
+		width: 31%;
+	}
+	.container .main .procesos .esquema-basico-15{
+		margin-top: 14%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-16{
+		margin-top: 6%;
+		margin-left: 1.5%;
+		width: 12%;
+	}
+		.container .main .procesos .esquema-basico-17{
+		margin-top: 15%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-18{
+		margin-top: 5.5%;
+		margin-left: 1.5%;
+		width: 12%;
+	}
+		.container .main .procesos .esquema-basico-19{
+		margin-top: 15%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-20{
+		margin-top: 4%;
+		margin-left: 1.5%;
+		width: 9%;
+	}
+		.container .main .procesos .esquema-basico-21{
+		margin-top: 4%;
+		margin-left: 1.5%;
+		width: 17%;
+	}
+		.container .main .procesos .esquema-basico-22{
+		margin-top: 11%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-23{
+		margin-top: 4%;
+		margin-left: 1.5%;
+		width: 12%;
+	}
+		.container .main .procesos .esquema-basico-24{
+		margin-top: 13%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-25{
+		margin-top: 5%;
+		margin-left: 1.5%;
+		width: 11%;
+	}
+		.container .main .procesos .esquema-basico-26{
+		margin-top: 13%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-27{
+		margin-top: 4.5%;
+		margin-left: 1.5%;
+		width: 11%;
+	}
+		.container .main .procesos .esquema-basico-28{
+		margin-top: 13%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-29{
+		margin-top: 3%;
+		margin-left: 1.5%;
+		width: 8%;
+	}	
+	.container .main .procesos #esquema-basico-13 img.img-extremos {
+		width: 60%;
+	}
+	
+	
+	
+.container .main .titulo-descripcion{
+	position: absolute;
+	margin-left: 17%; 
+	margin-top: -1.5%;
+}
+
+
+
+.container .main .titulo{
+	position: absolute;
+	margin-left: 50%; 
+	margin-top: -3%; 
+}
+	
+	.container .main .titulo .img-titulo{
+		width: 97%;
+	}
+	
+.container .main .back{
+	position: absolute;
+	margin-left: -4%;
+	margin-top: -1%; 
+}
+	.container .main .back .img-back{
+		width: 75%;
+	}
+	
+	.container .main .back:hover{
+		-webkit-transform: translateY(-5px);
+		transform: translateY(-5px);
+		opacity: 0.7;
+	}
+	
+@media (max-height: 442px) {
+.style-text{
+	color: #7F7F7F;
+	text-align: right;
+	font-size: 18px;
+}
+
+.style-text-2{
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 14px;
+}
+
+.style-text-3{
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 12px;
+	width: 100%;
+}
+
+.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 5%; 
+}	
+
+.container .main .procesos{
+	position: absolute;
+	margin-left: -12%; 
+	margin-top: 6%; 
+	width: 113%;
+}
+
+	.container .main .procesos .float-left{
+		float:left;
+	}
+	
+	.container .main .procesos .img-extremos{
+		width: 100%;
+	}
+
+	.container .main .procesos .img-internos{
+		width: 100%;
+	}
+	
+	.container .main .procesos .img-flechas{
+		width: 100%;
+	}
+	
+	.container .main .procesos .esquema-basico-1{
+		margin-top: 1%;
+		width: 10%;		
+	}
+	.container .main .procesos .esquema-basico-2{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-3{
+		margin-top: 2.5%;
+		margin-left: 0.5%;
+		width: 11%;
+	}	
+	.container .main .procesos .esquema-basico-4{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-5{
+		margin-top: 2.6%;
+		width: 7.5%;
+		margin-left: 0.5%;
+}
+	.container .main .procesos .esquema-basico-6{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-7{
+		margin-top: 2.5%;
+		margin-left: 0.5%;
+		width: 12%;
+	}
+	.container .main .procesos .esquema-basico-8{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-9{
+		margin-top: 3.5%;
+		margin-left: 0.5%;
+		width: 11%;
+	}
+	.container .main .procesos .esquema-basico-10{
+		margin-top: 12%;
+		margin-left: 0.5%;
+		width: 3%;
+	}	
+	.container .main .procesos .esquema-basico-11{
+		margin-top: 3%;
+		margin-left: 0.5%;
+		width: 11%;
+	}
+	.container .main .procesos .esquema-basico-12{
+		margin-top: 11%;
+		margin-left: 0.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-13{
+		margin-top: 1%;
+		margin-left: 0.5%;
+		width: 9%;
+	}
+	.container .main .procesos .esquema-basico-14{
+		margin-top: 0%;
+		margin-left: 0.5%;
+		width: 30%;
+	}
+	.container .main .procesos .esquema-basico-15{
+		margin-top: 8%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+	.container .main .procesos .esquema-basico-16{
+		margin-top: 0%;
+		margin-left: 1.5%;
+		width: 12%;
+	}
+		.container .main .procesos .esquema-basico-17{
+		margin-top: 9%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-18{
+		margin-top: -0.5%;
+		margin-left: 1.5%;
+		width: 12%;
+	}
+		.container .main .procesos .esquema-basico-19{
+		margin-top: 9%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-20{
+		margin-top: -2%;
+		margin-left: 1.5%;
+		width: 9%;
+	}
+		.container .main .procesos .esquema-basico-21{
+		margin-top: 4%;
+		margin-left: 1.5%;
+		width: 19%;
+	}
+		.container .main .procesos .esquema-basico-22{
+		margin-top: 10%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-23{
+		margin-top: 2%;
+		margin-left: 1.5%;
+		width: 12%;
+	}
+		.container .main .procesos .esquema-basico-24{
+		margin-top: 11%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-25{
+		margin-top: 3%;
+		margin-left: 1.5%;
+		width: 11%;
+	}
+		.container .main .procesos .esquema-basico-26{
+		margin-top: 11%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-27{
+		margin-top: 2.5%;
+		margin-left: 1.5%;
+		width: 11%;
+	}
+		.container .main .procesos .esquema-basico-28{
+		margin-top: 11%;
+		margin-left: 1.5%;
+		width: 3%;
+	}
+		.container .main .procesos .esquema-basico-29{
+		margin-top: 1%;
+		margin-left: 1.5%;
+		width: 8%;
+	}	
+	.container .main .procesos #esquema-basico-13 img.img-extremos {
+		width: 60%;
+	}
+	
+	
+	
+.container .main .titulo-descripcion{
+	position: absolute;
+	margin-left: 17%; 
+	margin-top: -1.5%;
+}
+
+
+
+.container .main .titulo{
+	position: absolute;
+	margin-left: 50%; 
+	margin-top: -3%; 
+}
+	
+	.container .main .titulo .img-titulo{
+		width: 97%;
+	}
+	
+.container .main .back{
+	position: absolute;
+	margin-left: -4%;
+	margin-top: -1%; 
+}
+	.container .main .back .img-back{
+		width: 75%;
+	}
+	
+	.container .main .back:hover{
+		-webkit-transform: translateY(-5px);
+		transform: translateY(-5px);
+		opacity: 0.7;
+	}
+	
+}

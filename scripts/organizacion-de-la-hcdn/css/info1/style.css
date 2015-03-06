@@ -1,0 +1,334 @@
+/* ##### GESTION PARLAMENTARIA ##### */
+	.texto-style{
+		text-align: right;
+		color: #8B8B8B;
+		font-size: 19px;
+	}
+	
+	.texto-style-2{
+		padding: 2px;
+		color: #FFF;
+		background-color: #6f6d6d;
+	}
+	
+	.texto-style-7{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 19px;
+		-webkit-transform: rotate(-4deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(-4deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(-4deg);  /* IE 9 */
+		-o-transform: rotate(-4deg);  /* Opera 10.50-12.00 */
+		transform: rotate(-4deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+	
+	.texto-style-8{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 19px;
+		-webkit-transform: rotate(5deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(5deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(5deg);  /* IE 9 */
+		-o-transform: rotate(5deg);  /* Opera 10.50-12.00 */
+		transform: rotate(5deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+	
+	.texto-style-9{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 19px;
+		-webkit-transform: rotate(9deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(9deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(9deg);  /* IE 9 */
+		-o-transform: rotate(9deg);  /* Opera 10.50-12.00 */
+		transform: rotate(9deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}	
+	
+	.upperccase{
+		text-transform: uppercase;
+	}
+	
+	.rotate{
+		-webkit-transform: rotate(2deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(2deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(2deg);  /* IE 9 */
+		-o-transform: rotate(2deg);  /* Opera 10.50-12.00 */
+		transform: rotate(2deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+
+	.container{
+		background-repeat: no-repeat;
+		background-position: right top;
+		background-size: 100% 100%;	
+	}
+
+		.container .main{
+			position: relative;
+		}
+			
+			.container .main .titulo{
+				position: absolute;
+				margin-left: 53%; 
+				margin-top: 2%; 
+			}
+				
+				.container .main .titulo .img-titulo{
+					width: 95%;
+				}
+			
+			.container .main .personas{
+				position: absolute;
+				margin-left: 9%; 
+				margin-top: 2%; 
+			
+				width: 41%;
+}
+		
+				.container .main .personas .img-personas{
+					width: 100%;
+				}
+				
+			.container .main .back{
+				position: absolute;
+				margin-left: 1%; 
+				margin-top: 2%; 
+			}
+		
+				.container .main .back .img-back{
+					width: 90%;
+				}
+				
+			.container .main .texto-1{
+				position: absolute;
+				margin-left: 3%; 
+				margin-top: 25%; 
+			}
+			
+			.container .main .texto-2{
+				position: absolute;
+				margin-left: 35.5%; 
+				margin-top: 20%; 
+			}
+			
+			.container .main .texto-3{
+				position: absolute;
+				margin-left: 34%; 
+				margin-top: 22%; 
+			}
+			
+			.container .main .texto-4{
+				position: absolute;
+				margin-left: 30%; 
+				margin-top: 24%; 
+			}
+			
+			.container .main .texto-5{
+				position: absolute;
+				margin-left: 33%; 
+				margin-top: 18%; 
+			}
+			
+			.container .main .texto-6{
+				position: absolute;
+				margin-left: 33%; 
+				margin-top: 19.8%; 
+			}
+			
+			.container .main .texto-7{
+				position: absolute;
+				margin-left: 56%; 
+				margin-top: 12%; 
+			}
+			
+			.container .main .texto-8{
+				position: absolute;
+				margin-left: 56%; 
+				margin-top: 26%; 
+			}
+
+			.container .main .texto-9{
+				position: absolute;
+				margin-left: 55%; 
+				margin-top: 35%; 
+			}
+			
+			
+			.container .main .note-list{
+				position: absolute;
+				margin-left: 21%; 
+				margin-top: 14%; 
+			
+				width: 20%;
+}
+			
+				.container .main .note-list .img-note-list{
+					width: 100%;
+				}	
+			
+@media (max-height: 442px) {
+
+	.texto-style{
+		text-align: right;
+		color: #8B8B8B;
+		font-size: 14px;
+	}
+	
+	.texto-style-2{
+		padding: 2px;
+		color: #FFF;
+		background-color: #6f6d6d;
+	}
+	
+	.texto-style-7{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 14px;
+		-webkit-transform: rotate(-4deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(-4deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(-4deg);  /* IE 9 */
+		-o-transform: rotate(-4deg);  /* Opera 10.50-12.00 */
+		transform: rotate(-4deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+	
+	.texto-style-8{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 14px;
+		-webkit-transform: rotate(5deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(5deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(5deg);  /* IE 9 */
+		-o-transform: rotate(5deg);  /* Opera 10.50-12.00 */
+		transform: rotate(5deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+	
+	.texto-style-9{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 14px;
+		-webkit-transform: rotate(9deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(9deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(9deg);  /* IE 9 */
+		-o-transform: rotate(9deg);  /* Opera 10.50-12.00 */
+		transform: rotate(9deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}	
+	
+	.upperccase{
+		text-transform: uppercase;
+	}
+	
+	.rotate{
+		-webkit-transform: rotate(2deg);  /* Chrome, Safari 3.1+ */
+		-moz-transform: rotate(2deg);  /* Firefox 3.5-15 */
+		-ms-transform: rotate(2deg);  /* IE 9 */
+		-o-transform: rotate(2deg);  /* Opera 10.50-12.00 */
+		transform: rotate(2deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+	}
+
+	.container{
+		background-repeat: no-repeat;
+		background-position: right top;
+		background-size: 100% 100%;	
+	}
+
+		.container .main{
+			position: relative;
+		}
+			
+			.container .main .titulo{
+				position: absolute;
+				margin-left: 55%; 
+				margin-top: 1%; 
+			}
+				
+				.container .main .titulo .img-titulo{
+					width: 95%;
+				}
+			
+			.container .main .personas{
+				position: absolute;
+				margin-left: 9%; 
+				margin-top: 0%; 
+			
+				width: 44%;
+}
+		
+				.container .main .personas .img-personas{
+					width: 100%;
+				}
+				
+			.container .main .back{
+				position: absolute;
+				margin-left: 1%; 
+				margin-top: 2%; 
+			}
+		
+				.container .main .back .img-back{
+					width: 90%;
+				}
+				
+			.container .main .texto-1{
+				position: absolute;
+				margin-left: 3%; 
+				margin-top: 24%; 
+			}
+			
+			.container .main .texto-2{
+				position: absolute;
+				margin-left: 35.5%; 
+				margin-top: 20%; 
+			}
+			
+			.container .main .texto-3{
+				position: absolute;
+				margin-left: 34%; 
+				margin-top: 22%; 
+			}
+			
+			.container .main .texto-4{
+				position: absolute;
+				margin-left: 30%; 
+				margin-top: 24%; 
+			}
+			
+			.container .main .texto-5{
+				position: absolute;
+				margin-left: 33%; 
+				margin-top: 18%; 
+			}
+			
+			.container .main .texto-6{
+				position: absolute;
+				margin-left: 33%; 
+				margin-top: 19.8%; 
+			}
+			
+			.container .main .texto-7{
+				position: absolute;
+				margin-left: 58%; 
+				margin-top: 13%; 
+			}
+			
+			.container .main .texto-8{
+				position: absolute;
+				margin-left: 58%; 
+				margin-top: 26%; 
+			}
+
+			.container .main .texto-9{
+				position: absolute;
+				margin-left: 57%; 
+				margin-top: 35%; 
+			}
+			
+			
+			.container .main .note-list{
+				position: absolute;
+				margin-left: 21%; 
+				margin-top: 14%; 
+			}
+			
+				.container .main .note-list .img-note-list{
+					width: 100%;
+				}	
+}
+

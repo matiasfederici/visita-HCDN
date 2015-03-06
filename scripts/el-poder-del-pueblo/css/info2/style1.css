@@ -1,0 +1,5180 @@
+/* ##### Info 2 ##### */
+
+.text-content{
+	color: #7E7E7E;
+	font-size: 15px;
+}
+
+.text-style{
+	text-transform: uppercase;
+	font-size: 17px !important;
+}
+
+.container .main{
+	position: relative;
+}
+	
+	.container .main .titulo{
+		position: absolute;
+		margin-left: 2%; 
+		margin-top: 35%; 
+		width: 25%;
+	}
+		
+		.container .main .titulo .img-titulo{
+			width: 100%;
+		}
+	
+	.container .main .democracias-titulo{
+		position: absolute;
+		margin-left: -19.5%; 
+		margin-top: 40%; 
+		width: 25%;
+	}
+	
+		.container .main .democracias-titulo .img-democracias-titulo{
+			width: 100%;
+		}
+
+	.container .main .democracias-control{
+		position: absolute;
+		margin-left: 72.4%; 
+		margin-top: 37.5%; 		
+	}
+
+	.container .main .democracias-control a{
+		color: #757571;
+		font-size: 20px;
+	}
+
+	.container .main .democracias-control a.slide-1912:hover{
+		color: #FF0053;
+	}
+
+	.container .main .democracias-control a.slide-1947:hover{
+		color: #80C0AE;
+	}
+
+	.container .main .democracias-control a.slide-1959:hover{
+		color: #DF8E2F;
+	}
+
+	.container .main .democracias-control a.slide-1983:hover{
+		color: #65A9DF;
+	}
+
+	.container .main .democracias-control a.slide-1989:hover{
+		color: #943C50;
+	}
+
+	.container .main .democracias-control a.slide-1997:hover{
+		color: #FF0053;
+	}
+
+	.container .main .democracias-control a.slide-2002:hover{
+		color: #80C0AE;
+	}
+		
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 3%; 
+		width: 3%;
+	}
+
+		.container .main .back .img-back{
+			/* width: 100%; */
+		}	
+/*Slide-1*/		
+	.img-ano-1912{
+		margin-left: 2%; 
+		margin-top: 3%; 
+		width: 20%;
+	}
+	.img-ano-1918{
+		margin-left: 2%; 
+		margin-top: 1%; 
+		width: 12%;
+	}
+	.img-ano-1919{
+		margin-left: 6%; 
+		margin-top: 3%; 
+		width: 9%;
+	}
+	.img-ano-1921{
+		margin-left: 7%; 
+		margin-top: 3%; 
+		width: 10%;
+	}
+	.img-ano-1921-2{
+		margin-left: 6%; 
+		margin-top: 3%; 
+		width: 10%;
+	}
+
+	.img-globo-1912{
+		margin-left: 10%; 
+		margin-top: -3%; 
+		width: 10%;
+	}
+	.img-globo-1918{
+		margin-left: 5%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+	.img-globo-1919{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+	.img-globo-1921{
+		margin-left: 7%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+	.img-globo-1921-2{
+		margin-left: 6%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+	
+	.img-persona-1912{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+	.img-persona-1918{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}
+	.img-persona-1919{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+	.img-persona-1921{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+	.img-persona-1921-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+	
+/*Slide-2*/
+	/*1#*/		
+	.img-ano-1922{
+		margin-left: 11%; 
+		margin-top: 2%; 
+		width: 8%;
+	}
+
+	.img-globo-1922{
+		margin-left: 10%; 
+		margin-top: 2%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1922{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1929{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+	
+	.img-globo-1929{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1929{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1946{
+		margin-left: 7%; 
+		margin-top: 0%; 
+		width: 12%;
+	}
+	
+	.img-globo-1946{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1946{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	
+	/*4#*/	
+	.img-ano-1946-2{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 8%;
+	}
+
+	.img-globo-1946-2{
+		margin-left: 7%; 
+		margin-top: 2%; 
+		width: 10%;
+	}
+
+	.img-persona-1946-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1947{
+		margin-left: 8%; 
+		margin-top: 3%; 
+		width: 10%;
+	}
+
+	.img-globo-1947{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1947{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-3*/
+	/*1#*/		
+	.img-ano-1947-2{
+		margin-left: 11%; 
+		margin-top: 2%; 
+		width: 11%;
+	}
+
+	.img-globo-1947-2{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1947-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1947-3{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+	
+	.img-globo-1947-3{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1947-3{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1948{
+		margin-left: 5%; 
+		margin-top: 0%; 
+		width: 9%;
+	}
+	
+	.img-globo-1948{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1948{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	
+	/*4#*/	
+	.img-ano-1948-2{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 12%;
+	}
+
+	.img-globo-1948-2{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1948-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1949{
+		margin-left: 4%; 
+		margin-top: 3%; 
+		width: 15%;
+	}
+
+	.img-globo-1949{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-1949{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-4*/
+	/*1#*/		
+	.img-ano-1949-2{
+		margin-left: 5%; 
+		margin-top: 2%; 
+		width: 15%;
+	}
+
+	.img-globo-1949-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1949-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1950{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+	
+	.img-globo-1950{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1950{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1951{
+		margin-left: 5%; 
+		margin-top: 0%; 
+		width: 12%;
+	}
+	
+	.img-globo-1951{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1951{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-1955{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-globo-1955{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1955{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1958{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-globo-1958{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-1958{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+
+/*Slide-5*/
+	/*1#*/		
+	.img-ano-1959{
+		margin-left: 9%; 
+		margin-top: 2%; 
+		width: 11%;
+	}
+
+	.img-globo-1959{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1959{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1960{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+	
+	.img-globo-1960{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1960{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1963{
+		margin-left: 5%; 
+		margin-top: 0%; 
+		width: 12%;
+	}
+	
+	.img-globo-1963{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1963{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-1964{
+		margin-left: 5%; 
+		margin-top: 0%; 
+		width: 12%;
+	}
+
+	.img-globo-1964{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1964{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1964-2{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 15%;
+	}
+
+	.img-globo-1964-2{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-1964-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-6*/
+	/*1#*/		
+	.img-ano-1973{
+		margin-left: 9%; 
+		margin-top: 2%; 
+		width: 9%;
+	}
+
+	.img-globo-1973{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1973{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1973-2{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+	
+	.img-globo-1973-2{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1973-2{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1974{
+		margin-left: 7%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+	
+	.img-globo-1974{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1974{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-1975{
+		margin-left: 6%; 
+		margin-top: 0%; 
+		width: 12%;
+	}
+
+	.img-globo-1975{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1975{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1983{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+
+	.img-globo-1983{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-1983{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-7*/
+	/*1#*/		
+	.img-ano-1983-2{
+		margin-left: 9%; 
+		margin-top: 2%; 
+		width: 11%;
+	}
+
+	.img-globo-1983-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1983-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1983-3{
+		margin-left: 3%; 
+		margin-top: 1%; 
+		width: 14%;
+	}
+	
+	.img-globo-1983-3{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1983-3{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1984{
+		margin-left: 5%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+	
+	.img-globo-1984{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1984{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-1985{
+		margin-left: 8%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+
+	.img-globo-1985{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1985{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1985-2{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+
+	.img-globo-1985-2{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-1985-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-8*/
+	/*1#*/		
+	.img-ano-1986{
+		margin-left: 9%; 
+		margin-top: 2%; 
+		width: 11%;
+	}
+
+	.img-globo-1986{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1986{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1987{
+		margin-left: 3%; 
+		margin-top: 1%; 
+		width: 14%;
+	}
+	
+	.img-globo-1987{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1987{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1987-2{
+		margin-left: 5%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+	
+	.img-globo-1987-2{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1987-2{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-1987-3{
+		margin-left: 8%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+
+	.img-globo-1987-3{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1987-3{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1989{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+
+	.img-globo-1989{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-1989{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-9*/
+	/*1#*/		
+	.img-ano-1989-2{
+		margin-left: 7%; 
+		margin-top: 3%; 
+		width: 13%;
+	}
+
+	.img-globo-1989-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1989-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1990{
+		margin-left: 3%; 
+		margin-top: 1%; 
+		width: 12%;
+	}
+	
+	.img-globo-1990{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1990{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	
+	/*3#*/	
+	.img-ano-1991{
+		margin-left: 6%; 
+		margin-top: 0%; 
+		width: 18%;
+	}
+
+	.img-globo-1991{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-1991{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-1991-2{
+		margin-left: 2%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+
+	.img-globo-1991-2{
+		margin-left: 8%; 
+		margin-top: 0%; 
+		width: 10%;
+	}
+
+	.img-persona-1991-2{
+		margin-left: 11%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+	
+	/*5#*/		
+	.img-ano-1993{
+		margin-left: 3%; 
+		margin-top: 2%; 
+		width: 11%;
+	}
+
+	.img-globo-1993{
+		margin-left: 7%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1993{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+	
+/*Slide-10*/
+	
+	/*1#*/	
+	.img-ano-1993-2{
+		margin-left: 8%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+	
+	.img-globo-1993-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}
+
+	.img-persona-1993-2{
+		margin-left: 12%; 
+		margin-top: 0%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1994{
+		margin-left: 4%; 
+		margin-top: 3%; 
+		width: 12%;
+	}
+	
+	.img-globo-1994{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1994{
+		margin-left: 8%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1994-2{
+		margin-left: 5%; 
+		margin-top: 2%; 
+		width: 15%;
+	}
+	
+	.img-globo-1994-2{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1994-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 7%;
+	}	
+	/*4#*/	
+	.img-ano-1995{
+		margin-left: 4%; 
+		margin-top: 0%; 
+		width: 12%;
+	}
+
+	.img-globo-1995{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1995{
+		margin-left: 9%; 
+		margin-top: 0%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1996{
+		margin-left: 7%; 
+		margin-top: 4%; 
+		width: 14%;
+	}
+
+	.img-globo-1996{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1996{
+		margin-left: 9%; 
+		margin-top: 0%; 
+		width: 7%;
+	}
+/*Slide-11*/
+	/*1#*/		
+	.img-ano-1997{
+		margin-left: 9%; 
+		margin-top: 6%; 
+		width: 11%;
+	}
+
+	.img-globo-1997{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1997{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2000{
+		margin-left: 3%; 
+		margin-top: 1%; 
+		width: 12%;
+	}
+	
+	.img-globo-2000{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2000{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2001{
+		margin-left: 7%; 
+		margin-top: 9%; 
+		width: 10%;
+	}
+	
+	.img-globo-2001{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2001{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2001-2{
+		margin-left: 7%; 
+		margin-top: 5%; 
+		width: 13%;
+	}
+
+	.img-globo-2001-2{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2001-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2001-3{
+		margin-left: 4%; 
+		margin-top: 1%; 
+		width: 11%;
+	}
+
+	.img-globo-2001-3{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2001-3{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-12*/
+	/*1#*/		
+	.img-ano-2001-4{
+		margin-left: 9%; 
+		margin-top: 10%; 
+		width: 11%;
+	}
+
+	.img-globo-2001-4{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2001-4{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2001-5{
+		margin-left: 3%; 
+		margin-top: 1%; 
+		width: 12%;
+	}
+	
+	.img-globo-2001-5{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2001-5{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2001-6{
+		margin-left: 7%; 
+		margin-top: 7%; 
+		width: 9%;
+	}
+	
+	.img-globo-2001-6{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2001-6{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2002{
+		margin-left: 7%; 
+		margin-top: 5%; 
+		width: 13%;
+	}
+
+	.img-globo-2002{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2002{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2002-2{
+		margin-left: 4%; 
+		margin-top: 1%; 
+		width: 17%;
+	}
+
+	.img-globo-2002-2{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2002-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-13*/
+	/*1#*/		
+	.img-ano-2002-3{
+		margin-left: 9%; 
+		margin-top: 4%; 
+		width: 11%;
+	}
+
+	.img-globo-2002-3{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2002-3{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2003{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+	
+	.img-globo-2003{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2003{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2003-2{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 12%;
+	}
+	
+	.img-globo-2003-2{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2003-2{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2004{
+		margin-left: 8%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-globo-2004{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2004{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2005{
+		margin-left: 8%; 
+		margin-top: 8%; 
+		width: 17%;
+	}
+
+	.img-globo-2005{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2005{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-14*/
+	/*1#*/		
+	.img-ano-2005-2{
+		margin-left: 11%; 
+		margin-top: 3%; 
+		width: 8%;
+	}
+
+	.img-globo-2005-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2005-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2005-3{
+		margin-left: 3%; 
+		margin-top: 1%; 
+		width: 14%;
+	}
+	
+	.img-globo-2005-3{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2005-3{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2006{
+		margin-left: 3%; 
+		margin-top: 3%; 
+		width: 12%;
+	}
+	
+	.img-globo-2006{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2006{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2006-2{
+		margin-left: 7%; 
+		margin-top: 0%; 
+		width: 13%;
+	}
+
+	.img-globo-2006-2{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2006-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2007{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 16%;
+	}
+
+	.img-globo-2007{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2007{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-15*/
+	/*1#*/		
+	.img-ano-2007-2{
+		margin-left: 6%; 
+		margin-top: 3%; 
+		width: 14%;
+	}
+
+	.img-globo-2007-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2007-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2008{
+		margin-left: 1%; 
+		margin-top: 2%; 
+		width: 14%;
+	}
+	
+	.img-globo-2008{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2008{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2008-2{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 9%;
+	}
+	
+	.img-globo-2008-2{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2008-2{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2008-3{
+		margin-left: 7%; 
+		margin-top: 2%; 
+		width: 10%;
+	}
+
+	.img-globo-2008-3{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2008-3{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2009{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 12%;
+	}
+
+	.img-globo-2009{
+		margin-left: 6%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2009{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-16*/
+	/*1#*/		
+	.img-ano-2009-2{
+		margin-left: 2%; 
+		margin-top: 7%; 
+		width: 19%;
+	}
+
+	.img-globo-2009-2{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2009-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2009-3{
+		margin-left: 1%; 
+		margin-top: 0%; 
+		width: 14%;
+	}
+	
+	.img-globo-2009-3{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2009-3{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2010{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 9%;
+	}
+	
+	.img-globo-2010{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2010{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2010-2{
+		margin-left: 8%; 
+		margin-top: 4%; 
+		width: 10%;
+	}
+
+	.img-globo-2010-2{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2010-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2010-3{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 18%;
+	}
+
+	.img-globo-2010-3{
+		margin-left: 5%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2010-3{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-17*/
+	/*1#*/		
+	.img-ano-2011{
+		margin-left: 9%; 
+		margin-top: 3%; 
+		width: 9%;
+	}
+
+	.img-globo-2011{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2011{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2012{
+		margin-left: 4%; 
+		margin-top: 5%; 
+		width: 14%;
+	}
+	
+	.img-globo-2012{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2012{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2012-2{
+		margin-left: 7%; 
+		margin-top: 1%; 
+		width: 9%;
+	}
+	
+	.img-globo-2012-2{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2012-2{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2012-3{
+		margin-left: 9%; 
+		margin-top: 0%; 
+		width: 6%;
+	}
+
+	.img-globo-2012-3{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2012-3{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2012-4{
+		margin-left: 7%; 
+		margin-top: 4%; 
+		width: 14%;
+	}
+
+	.img-globo-2012-4{
+		margin-left: 5%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2012-4{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+/*Slide-18*/
+	/*1#*/		
+	.img-ano-2013{
+		margin-left: 1%; 
+		margin-top: 6%; 
+		width: 18%;
+	}
+
+	.img-globo-2013{
+		margin-left: 10%; 
+		margin-top: 0%; 
+		width: 11%;
+	}	
+	
+	.img-persona-2013{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-2013_2{
+		margin-left: 4%; 
+		margin-top: 2%; 
+		width: 12%;
+	}
+	
+	.img-globo-2013_2{
+		margin-left: 5%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2013_2{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-2014{
+		margin-left: 6%; 
+		margin-top: 3%; 
+		width: 13%;
+	}
+	
+	.img-globo-2014{
+		margin-left: 6%; 
+		margin-top: -1%; 
+		width: 10%;
+	}	
+
+	.img-persona-2014{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	/*4#*/	
+	.img-ano-2014-2{
+		margin-left: 7%; 
+		margin-top: 2%; 
+		width: 10%;
+	}
+
+	.img-globo-2014-2{
+		margin-left: 7%; 
+		margin-top: -1%; 
+		width: 10%;
+	}
+
+	.img-persona-2014-2{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-2014-3{
+		margin-left: 6%; 
+		margin-top: 2%; 
+		width: 14%;
+	}
+
+	.img-globo-2014-3{
+		margin-left: 5%; 
+		margin-top: -2%; 
+		width: 10%;
+	}
+
+	.img-persona-2014-3{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+/*** Modals ***/
+
+	/*** Slide 1 ***/
+		
+		/*** #1 ***/
+			.modal-container-1912 .icono-1912{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1912 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+		/*** #2 ***/
+			.modal-container-1918 .icono-1918{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1918 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1919 .icono-1919{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -172%;
+				width: 110%;
+			}
+
+				.modal-container-1919 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			  
+}			
+		/*** #4 ***/
+			.modal-container-1921 .icono-1921{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1921 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1921-2 .icono-1921-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1921-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			  
+}		
+	/*** Slide 2 ***/
+		
+		/*** #1 ***/
+			.modal-container-1922 .icono-1922{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1922 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1929 .icono-1929{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1929 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -57%;
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #3 ***/
+			.modal-container-1946 .icono-1946{
+				position: absolute;
+				margin-left: 22%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1946 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1946-2 .icono-1946-2{
+				position: absolute;
+				margin-left: 35%;
+				margin-top: -175%;
+				width: 80%;
+			}
+
+				.modal-container-1946-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1947 .icono-1947{
+				position: absolute;
+				margin-left: -10%;
+				margin-top: -170%;
+				width: 150%;
+			}
+
+				.modal-container-1947 .text-content{
+					position: absolute;
+					margin-left: 4%;
+					margin-top: -60%;
+					width: 80%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 3 ***/
+		
+		/*** #1 ***/
+			.modal-container-1947-2 .icono-1947-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -164%;
+				width: 100%;
+			}
+
+				.modal-container-1947-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -58%; 
+					width: 70%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1947-3 .icono-1947-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1947-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #3 ***/
+			.modal-container-1948 .icono-1948{
+				position: absolute;
+				margin-left: 30%;
+				margin-top: -170%;
+				width: 80%;
+			}
+
+				.modal-container-1948 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -57%; 
+					width: 74%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1948-2 .icono-1948-2{
+				position: absolute;
+				margin-left: 35%;
+				margin-top: -170%;
+				width: 85%;
+			}
+
+				.modal-container-1948-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -58%; 
+					width: 71%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1949 .icono-1949{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1949 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;
+					padding-right: 15px;
+}		
+	/*** Slide 4 ***/
+		
+		/*** #1 ***/
+			.modal-container-1949-2 .icono-1949-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1949-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1950 .icono-1950{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -169%;
+				width: 110%;
+			}
+
+				.modal-container-1950 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #3 ***/
+			.modal-container-1951 .icono-1951{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -173%;
+				width: 110%;
+			}
+
+				.modal-container-1951 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1955 .icono-1955{
+				position: absolute;
+				margin-left: 30%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1955 .text-content{
+					position: absolute;
+					margin-left: 9%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  
+					padding-right: 17px;
+}			
+		/*** #5 ***/
+			.modal-container-1958 .icono-1958{
+				position: absolute;
+				margin-left: 25%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1958 .text-content{
+					position: absolute;
+					margin-left: 7%;
+					margin-top: -60%; 
+					width: 77%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			  padding-right: 15px;
+}		
+	/*** Slide 5 ***/
+		
+		/*** #1 ***/
+			.modal-container-1959 .icono-1959{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -172%;
+				width: 110%;
+			}
+
+				.modal-container-1959 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1960 .icono-1960{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-1960 .text-content{
+					position: absolute;
+					margin-left: 9%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1963 .icono-1963{
+				position: absolute;
+				margin-left: 25%;
+				margin-top: -175%;
+				width: 85%;
+			}
+
+				.modal-container-1963 .text-content{
+					position: absolute;
+					margin-left: 5%;
+					margin-top: -60%; 
+					width: 80%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1964 .icono-1964{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-1964 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -60%; 
+					width: 76%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1964-2 .icono-1964-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1964-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  
+					padding-right: 17px;
+}		
+	/*** Slide 6 ***/
+		
+		/*** #1 ***/
+			.modal-container-1973 .icono-1973{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -168%;
+				width: 110%;
+			}
+
+				.modal-container-1973 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1973-2 .icono-1973-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1973-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1974 .icono-1974{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1974 .text-content{
+					position: absolute;
+					margin-left: 6%;
+					margin-top: -60%; 
+					width: 78%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1975 .icono-1975{
+				position: absolute;
+				margin-left: 23%;
+				margin-top: -170%;
+				width: 90%;
+			}
+
+				.modal-container-1975 .text-content{
+					position: absolute;
+					margin-left: 7%;
+					margin-top: -60%; 
+					width: 78%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1983 .icono-1983{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -163%;
+				width: 110%;
+			}
+
+				.modal-container-1983 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -57%; 
+					width: 70%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 7 ***/
+		
+		/*** #1 ***/
+			.modal-container-1983-2 .icono-1983-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1983-2 .text-content{
+					position: absolute;
+					margin-left: 10%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1983-3 .icono-1983-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1983-3 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1984 .icono-1984{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1984 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1985 .icono-1985{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1985 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-1985-2 .icono-1985-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1985-2 .text-content{
+					position: absolute;
+					margin-left: 10%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 8 ***/
+		
+		/*** #1 ***/
+			.modal-container-1986 .icono-1986{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 125%;
+			}
+
+				.modal-container-1986 .text-content{
+					position: absolute;
+					margin-left: 17%;
+					margin-top: -60%; 
+					width: 68%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1987 .icono-1987{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1987 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1987-2 .icono-1987-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1987-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1987-3 .icono-1987-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1987-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  
+					padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-1989 .icono-1989{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1989 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 9 ***/
+		
+		/*** #1 ***/
+			.modal-container-1989-2 .icono-1989-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 115%;
+			}
+
+				.modal-container-1989-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1990 .icono-1990{
+				position: absolute;
+				margin-left: 10%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1990 .text-content{
+					position: absolute;
+					margin-left: 10%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1991 .icono-1991{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1991 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1991-2 .icono-1991-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1991-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-1993 .icono-1993{
+				position: absolute;
+				margin-left: 10%;
+				margin-top: -180%;
+				width: 130%;
+			}
+
+				.modal-container-1993 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 10 ***/
+		
+		/*** #1 ***/
+			.modal-container-1993-2 .icono-1993-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1993-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1994 .icono-1994{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1994 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1994-2 .icono-1994-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1994-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1995 .icono-1995{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-1995 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1996 .icono-1996{
+				position: absolute;
+				margin-left: 14%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-1996 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 11 ***/
+		
+		/*** #1 ***/
+			.modal-container-1997 .icono-1997{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-1997 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2000 .icono-2000{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2000 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2001 .icono-2001{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2001 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2001-2 .icono-2001-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2001-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2001-3 .icono-2001-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-2001-3 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -60%; 
+					width: 76%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 12 ***/
+		
+		/*** #1 ***/
+			.modal-container-2001-4 .icono-2001-4{
+				position: absolute;
+				margin-left: 8%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2001-4 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2001-5 .icono-2001-5{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2001-5 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2001-6 .icono-2001-6{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2001-6 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2002 .icono-2002{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2002 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2002-2 .icono-2002-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2002-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 13 ***/
+		
+		/*** #1 ***/
+			.modal-container-2002-3 .icono-2002-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2002-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-2003 .icono-2003{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2003 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2003-2 .icono-2003-2{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2003-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-2004 .icono-2004{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2004 .text-content{
+					position: absolute;
+					margin-left: 15%;
+					margin-top: -60%; 
+					width: 69%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2005 .icono-2005{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2005 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 14 ***/
+		
+		/*** #1 ***/
+			.modal-container-2005-2 .icono-2005-2{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2005-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2005-3 .icono-2005-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2005-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2006 .icono-2006{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2006 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2006-2 .icono-2006-2{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2006-2 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2007 .icono-2007{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-2007 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -60%; 
+					width: 76%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 15 ***/
+		
+		/*** #1 ***/
+			.modal-container-2007-2 .icono-2007-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2007-2 .text-content{
+					position: absolute;
+					margin-left: 16%;
+					margin-top: -60%; 
+					width: 69%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+				.modal-container-2008 .icono-2008{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2008 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+		/*** #3 ***/
+			.modal-container-2008-2 .icono-2008-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2008-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-2008-3 .icono-2008-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2008-3 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			  
+}			
+		/*** #5 ***/
+			.modal-container-2009 .icono-2009{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2009 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 16 ***/
+		
+		/*** #1 ***/
+			.modal-container-2009-2 .icono-2009-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2009-2 .text-content{
+					position: absolute;
+					margin-left: 16%;
+					margin-top: -60%; 
+					width: 69%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2009-3 .icono-2009-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2009-3 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2010 .icono-2010{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2010 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2010-2 .icono-2010-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2010-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 360px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-2010-3 .icono-2010-3{
+				position: absolute;
+				margin-left: 10%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2010-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 17 ***/
+		
+		/*** #1 ***/
+			.modal-container-2011 .icono-2011{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2011 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2012 .icono-2012{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2012 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2012-2 .icono-2012-2{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2012-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2012-3 .icono-2012-3{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2012-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2012-4 .icono-2012-4{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2012-4 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 18 ***/
+		
+		/*** #1 ***/
+			.modal-container-2013 .icono-2013{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2013 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2013_2 .icono-2013_2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2013_2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2014 .icono-2014{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2014 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2014-2 .icono-2014-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2014-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/		
+			.modal-container-2014-3 .icono-2014-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2014-3 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}	
+
+	.paulund_modal_box{
+		position: absolute;
+		left: 17%;
+		top: 5%;
+		height: 76%;
+		width: 67%;
+		z-index: 50;
+	}
+		.paulund_modal_box .paulund_modal_close{
+			position: relative;
+			top: 13%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+
+
+@media (max-height: 442px) {
+	.container .main .titulo{
+		position: absolute;
+		margin-left: 2%; 
+		margin-top: 32%; 
+		width: 23%;
+	}
+		
+		.container .main .titulo .img-titulo{
+			width: 100%;
+		}
+		
+	.container .main .democracias-control{
+		position: absolute;
+		margin-left: 72.4%; 
+		margin-top: 34.5%; 		
+	}
+	
+	.container .main .democracias-titulo{
+		position: absolute;
+		margin-left: -19.5%; 
+		margin-top: 37%; 
+		width: 25%;
+	}
+	
+	/*** Modals ***/
+
+	/*** Slide 1 ***/
+		
+		/*** #1 ***/
+			.modal-container-1912 .icono-1912{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1912 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+		/*** #2 ***/
+			.modal-container-1918 .icono-1918{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1918 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1919 .icono-1919{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -172%;
+				width: 110%;
+			}
+
+				.modal-container-1919 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			  
+					overflow-y: scroll;
+					padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1921 .icono-1921{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1921 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1921-2 .icono-1921-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1921-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			  
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 2 ***/
+		
+		/*** #1 ***/
+			.modal-container-1922 .icono-1922{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1922 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1929 .icono-1929{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1929 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -57%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #3 ***/
+			.modal-container-1946 .icono-1946{
+				position: absolute;
+				margin-left: 22%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1946 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1946-2 .icono-1946-2{
+				position: absolute;
+				margin-left: 35%;
+				margin-top: -175%;
+				width: 80%;
+			}
+
+				.modal-container-1946-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1947 .icono-1947{
+				position: absolute;
+				margin-left: -10%;
+				margin-top: -170%;
+				width: 150%;
+			}
+
+				.modal-container-1947 .text-content{
+					position: absolute;
+					margin-left: 4%;
+					margin-top: -60%;
+					width: 80%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 3 ***/
+		
+		/*** #1 ***/
+			.modal-container-1947-2 .icono-1947-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -164%;
+				width: 100%;
+			}
+
+				.modal-container-1947-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -58%; 
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1947-3 .icono-1947-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1947-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #3 ***/
+			.modal-container-1948 .icono-1948{
+				position: absolute;
+				margin-left: 30%;
+				margin-top: -170%;
+				width: 80%;
+			}
+
+				.modal-container-1948 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -57%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1948-2 .icono-1948-2{
+				position: absolute;
+				margin-left: 35%;
+				margin-top: -170%;
+				width: 85%;
+			}
+
+				.modal-container-1948-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -58%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1949 .icono-1949{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1949 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;
+					padding-right: 15px;
+}		
+	/*** Slide 4 ***/
+		
+		/*** #1 ***/
+			.modal-container-1949-2 .icono-1949-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1949-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1950 .icono-1950{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -169%;
+				width: 110%;
+			}
+
+				.modal-container-1950 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #3 ***/
+			.modal-container-1951 .icono-1951{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -173%;
+				width: 110%;
+			}
+
+				.modal-container-1951 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1955 .icono-1955{
+				position: absolute;
+				margin-left: 30%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1955 .text-content{
+					position: absolute;
+					margin-left: 9%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  
+					padding-right: 17px;
+}			
+		/*** #5 ***/
+			.modal-container-1958 .icono-1958{
+				position: absolute;
+				margin-left: 25%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1958 .text-content{
+					position: absolute;
+					margin-left: 7%;
+					margin-top: -60%; 
+					width: 77%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			  
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 5 ***/
+		
+		/*** #1 ***/
+			.modal-container-1959 .icono-1959{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -172%;
+				width: 110%;
+			}
+
+				.modal-container-1959 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1960 .icono-1960{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-1960 .text-content{
+					position: absolute;
+					margin-left: 9%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1963 .icono-1963{
+				position: absolute;
+				margin-left: 25%;
+				margin-top: -175%;
+				width: 85%;
+			}
+
+				.modal-container-1963 .text-content{
+					position: absolute;
+					margin-left: 5%;
+					margin-top: -60%; 
+					width: 80%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1964 .icono-1964{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-1964 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -60%; 
+					width: 76%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1964-2 .icono-1964-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1964-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  
+					padding-right: 17px;
+}		
+	/*** Slide 6 ***/
+		
+		/*** #1 ***/
+			.modal-container-1973 .icono-1973{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -168%;
+				width: 110%;
+			}
+
+				.modal-container-1973 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1973-2 .icono-1973-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1973-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1974 .icono-1974{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 90%;
+			}
+
+				.modal-container-1974 .text-content{
+					position: absolute;
+					margin-left: 6%;
+					margin-top: -60%; 
+					width: 78%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1975 .icono-1975{
+				position: absolute;
+				margin-left: 23%;
+				margin-top: -170%;
+				width: 90%;
+			}
+
+				.modal-container-1975 .text-content{
+					position: absolute;
+					margin-left: 7%;
+					margin-top: -60%; 
+					width: 78%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1983 .icono-1983{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -163%;
+				width: 110%;
+			}
+
+				.modal-container-1983 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -57%; 
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 7 ***/
+		
+		/*** #1 ***/
+			.modal-container-1983-2 .icono-1983-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1983-2 .text-content{
+					position: absolute;
+					margin-left: 10%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1983-3 .icono-1983-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1983-3 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1984 .icono-1984{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1984 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1985 .icono-1985{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1985 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-1985-2 .icono-1985-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 110%;
+			}
+
+				.modal-container-1985-2 .text-content{
+					position: absolute;
+					margin-left: 10%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 8 ***/
+		
+		/*** #1 ***/
+			.modal-container-1986 .icono-1986{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -175%;
+				width: 125%;
+			}
+
+				.modal-container-1986 .text-content{
+					position: absolute;
+					margin-left: 17%;
+					margin-top: -60%; 
+					width: 68%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-1987 .icono-1987{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1987 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1987-2 .icono-1987-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1987-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-1987-3 .icono-1987-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1987-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  
+					padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-1989 .icono-1989{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1989 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 9 ***/
+		
+		/*** #1 ***/
+			.modal-container-1989-2 .icono-1989-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 115%;
+			}
+
+				.modal-container-1989-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1990 .icono-1990{
+				position: absolute;
+				margin-left: 10%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1990 .text-content{
+					position: absolute;
+					margin-left: 10%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1991 .icono-1991{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1991 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1991-2 .icono-1991-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1991-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-1993 .icono-1993{
+				position: absolute;
+				margin-left: 10%;
+				margin-top: -180%;
+				width: 130%;
+			}
+
+				.modal-container-1993 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 10 ***/
+		
+		/*** #1 ***/
+			.modal-container-1993-2 .icono-1993-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1993-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-1994 .icono-1994{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1994 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-1994-2 .icono-1994-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1994-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-1995 .icono-1995{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-1995 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-1996 .icono-1996{
+				position: absolute;
+				margin-left: 14%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-1996 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 11 ***/
+		
+		/*** #1 ***/
+			.modal-container-1997 .icono-1997{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-1997 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 70%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2000 .icono-2000{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2000 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2001 .icono-2001{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2001 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2001-2 .icono-2001-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2001-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2001-3 .icono-2001-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-2001-3 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -60%; 
+					width: 76%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 12 ***/
+		
+		/*** #1 ***/
+			.modal-container-2001-4 .icono-2001-4{
+				position: absolute;
+				margin-left: 8%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2001-4 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2001-5 .icono-2001-5{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2001-5 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2001-6 .icono-2001-6{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2001-6 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2002 .icono-2002{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2002 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2002-2 .icono-2002-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2002-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 13 ***/
+		
+		/*** #1 ***/
+			.modal-container-2002-3 .icono-2002-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2002-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+			.modal-container-2003 .icono-2003{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2003 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2003-2 .icono-2003-2{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2003-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-2004 .icono-2004{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2004 .text-content{
+					position: absolute;
+					margin-left: 15%;
+					margin-top: -60%; 
+					width: 69%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2005 .icono-2005{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2005 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 14 ***/
+		
+		/*** #1 ***/
+			.modal-container-2005-2 .icono-2005-2{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2005-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2005-3 .icono-2005-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2005-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2006 .icono-2006{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2006 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2006-2 .icono-2006-2{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2006-2 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2007 .icono-2007{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 100%;
+			}
+
+				.modal-container-2007 .text-content{
+					position: absolute;
+					margin-left: 8%;
+					margin-top: -60%; 
+					width: 76%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}		
+	/*** Slide 15 ***/
+		
+		/*** #1 ***/
+			.modal-container-2007-2 .icono-2007-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2007-2 .text-content{
+					position: absolute;
+					margin-left: 16%;
+					margin-top: -60%; 
+					width: 69%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #2 ***/
+				.modal-container-2008 .icono-2008{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2008 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+		/*** #3 ***/
+			.modal-container-2008-2 .icono-2008-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2008-2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #4 ***/
+			.modal-container-2008-3 .icono-2008-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2008-3 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			  
+}			
+		/*** #5 ***/
+			.modal-container-2009 .icono-2009{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2009 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 16 ***/
+		
+		/*** #1 ***/
+			.modal-container-2009-2 .icono-2009-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2009-2 .text-content{
+					position: absolute;
+					margin-left: 16%;
+					margin-top: -60%; 
+					width: 69%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2009-3 .icono-2009-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2009-3 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2010 .icono-2010{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2010 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2010-2 .icono-2010-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2010-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			}			
+		/*** #5 ***/
+			.modal-container-2010-3 .icono-2010-3{
+				position: absolute;
+				margin-left: 10%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2010-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 17 ***/
+		
+		/*** #1 ***/
+			.modal-container-2011 .icono-2011{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 125%;
+			}
+
+				.modal-container-2011 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 71%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2012 .icono-2012{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2012 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2012-2 .icono-2012-2{
+				position: absolute;
+				margin-left: 15%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2012-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2012-3 .icono-2012-3{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2012-3 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/
+			.modal-container-2012-4 .icono-2012-4{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2012-4 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}		
+	/*** Slide 18 ***/
+		
+		/*** #1 ***/
+			.modal-container-2013 .icono-2013{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2013 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 74%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #2 ***/
+			.modal-container-2013_2 .icono-2013_2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2013_2 .text-content{
+					position: absolute;
+					margin-left: 11%;
+					margin-top: -60%; 
+					width: 75%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #3 ***/
+			.modal-container-2014 .icono-2014{
+				position: absolute;
+				margin-left: 13%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2014 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			  
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #4 ***/
+			.modal-container-2014-2 .icono-2014-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-2014-2 .text-content{
+					position: absolute;
+					margin-left: 12%;
+					margin-top: -60%; 
+					width: 73%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}			
+		/*** #5 ***/		
+			.modal-container-2014-3 .icono-2014-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-2014-3 .text-content{
+					position: absolute;
+					margin-left: 14%;
+					margin-top: -60%; 
+					width: 72%;
+					max-height: 300px;
+					text-align: justify;
+					font-size: 15px;
+			
+					overflow-y: scroll;  padding-right: 15px;
+}	
+	
+	.paulund_modal_box{
+		position: absolute;
+		left: 10%;
+		top: -8%;
+		height: 100%;
+		width: 82%;
+		z-index: 50;
+	}
+		.paulund_modal_box .paulund_modal_close{
+			position: relative;
+			top: 13%;
+			left: -3%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+
+}

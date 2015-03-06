@@ -1,0 +1,138 @@
+/* ##### GESTION PARLAMENTARIA ##### */
+	.with-out-padding{
+		padding: 0px;
+	}
+	
+	.with-margin-bottom-sm{
+		margin-bottom: 2%;
+	}
+	
+	.gestion-parlamentaria .container .header{
+		margin-top: 4%;
+	
+		margin-left: -45%;
+}
+		.gestion-parlamentaria .container .header img.titulo{
+			width: 95%;
+			height: auto;
+		}
+
+	.gestion-parlamentaria .container .content{
+		margin-top: 10%;
+	}
+		.gestion-parlamentaria .container .content img.visita-c{
+			margin-top: 5%;
+			width: 115%;
+			height: auto;
+		}
+
+		.gestion-parlamentaria .container .content img.book-btn{
+			width: 55px;
+			height: 55px;
+		}
+
+		.gestion-parlamentaria .container .content img.book2-btn{
+			width: 55px;
+			height: 55px;
+		}
+
+		.gestion-parlamentaria .container .content img.idea-btn{
+			width: 55px;
+			height: 55px;	
+		}		
+		
+	.gestion-parlamentaria .container .footer{
+		margin-top: 5%;
+	}
+
+ul.menu-des{
+	margin: 0px !important;
+	padding: 0px !important;
+	list-style: none;
+}
+
+ul.menu-des li ul {
+   /* Resto de estilos... */
+   display: none;
+   z-index: 1;
+}
+
+ul.menu-des li ul{
+	position: absolute;
+	list-style: none;
+	margin-top: 80px;
+	margin-left: 50px;
+	background: rgba(221,221,221,1);
+background: -moz-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(221,221,221,1)), color-stop(100%, rgba(245,237,245,1)));
+background: -webkit-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+background: -o-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+background: -ms-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+background: linear-gradient(to right, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#f5edf5', GradientType=1 );
+}
+ul.menu-des li ul li{
+width: 180px;
+padding: 3px 0px;
+
+margin-left: -33px;
+}
+
+ul.menu-des li ul li a{
+	color: black;
+	}
+
+ul.menu-des li ul li a:hover{
+	color: black;
+	}
+	
+ul.menu-des a.video-c-1:hover {
+	color: #FF0053;
+}
+
+ul.menu-des a.video-c-2:hover {
+	color: #80C0AE;
+}
+
+ul.menu-des a.video-c-3:hover {
+	color: #DF8E2F;
+}
+
+ul.menu-des a.video-c-4:hover {
+	color: #65A9DF;
+}
+
+ul.menu-des a.video-c-5:hover {
+	color: #943C50;
+}
+
+ul.menu-des a.video-c-6:hover {
+	color: #80C0AE;
+}
+
+ul.menu-des a.video-c-7:hover {
+	color: #FF0053;
+}
+
+ul.menu-des a.video-c-8:hover {
+	color: #DF8E2F;
+}
+
+@media (max-height: 440px) {
+ul.menu-des li ul{
+	position: absolute;
+	list-style: none;
+	margin-top: 75px;
+	margin-left: 50px;
+	background: rgba(221,221,221,1);
+	background: -moz-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(221,221,221,1)), color-stop(100%, rgba(245,237,245,1)));
+	background: -webkit-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+	background: -o-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+	background: -ms-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+	background: linear-gradient(to right, rgba(221,221,221,1) 0%, rgba(245,237,245,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#f5edf5', GradientType=1 );
+}
+	
+}
+

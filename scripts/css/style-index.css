@@ -1,0 +1,244 @@
+
+
+.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 0%; 
+}	
+
+	.container .main .titulo-1{
+		position: absolute;
+		margin-left: -1%; 
+		margin-top: 5%; 
+		width: 20%;
+	}
+	
+		.container .main .titulo-1 .img-titulo-1{
+			width: 100%;
+		}
+	
+.container .main .menu{
+	position: absolute;
+	margin-left: 72%; 
+	margin-top: 25%; 
+}	
+
+	.container .main .menu-item.item-1{
+		position: absolute;
+		margin-top: 60px;
+	}
+	
+	.container .main .menu-item.item-2{
+		position: absolute;
+		margin-top: 10px;
+	}
+		.container .main .menu-item .img-icon{
+			width: 50px;
+		}
+		
+		.container .main .menu-item .img-background{
+			width: 200px;
+			height: 47px;
+			margin-left: -19px;
+			margin-top: 1px;
+		}
+		
+		.container .main .menu-item .text-menu-item{
+			position: absolute;
+			color:#5a5558;
+			margin-left: -11px;
+			margin-top: -43px;
+		}
+	
+
+.container .main .logo-1{
+	position: absolute;
+	margin-left: -3%; 
+	margin-top: 41%; 
+	width: 12%;
+}
+	
+	.container .main .logo-1 .img-logo-1{
+			width: 100%;
+	}
+	
+.container .main .logo-2{
+	position: absolute;
+	margin-left: 10%; 
+	margin-top: 40%; 
+	width: 17%;
+}
+	
+	.container .main .logo-2 .img-logo-2{
+			width: 100%;
+	}
+	
+.container .main .logo-3{
+	position: absolute;
+	margin-left: 72%; 
+	margin-top: 41%; 
+	width: 23%;
+}
+	
+	.container .main .logo-3 .img-logo-3{
+		width: 100%;
+	}
+
+@media (max-height: 442px) {
+	
+	.container .main .titulo-1{
+		position: absolute;
+		margin-left: -3%; 
+		margin-top: 4%; 
+		width: 20%;
+	}
+	
+	.container .main .titulo-1 .img-titulo-1{
+		width: 100%;
+	}
+
+	.container .main .logo-1{
+		margin-top: 38%; 
+	}
+	.container .main .logo-2{
+		margin-top: 37%; 
+	}
+	.container .main .logo-3{
+		margin-top: 38%; 
+	}
+	
+	
+
+.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 0%; 
+}	
+	
+.container .main .menu{
+	position: absolute;
+	margin-left: 67%; 
+	margin-top: 22%; 
+}	
+
+	.container .main .menu-item.item-1{
+		position: absolute;
+		margin-top: 60px;
+	}
+	
+	.container .main .menu-item.item-2{
+		position: absolute;
+		margin-top: 10px;
+	}
+		.container .main .menu-item .img-icon{
+			width: 50px;
+		}
+		
+		.container .main .menu-item .img-background{
+			width: 200px;
+			height: 47px;
+			margin-left: -19px;
+			margin-top: 1px;
+		}
+		
+		.container .main .menu-item .text-menu-item{
+			position: absolute;
+			color:#5a5558;
+			margin-left: -11px;
+			margin-top: -43px;
+		}
+	
+	.container .main .logo-1 .img-logo-1{
+			width: 100%;
+	}
+	
+	
+	.container .main .logo-2 .img-logo-2{
+			width: 100%;
+	}
+	
+	
+	.container .main .logo-3 .img-logo-3{
+		width: 100%;
+	}
+}
+@-moz-document url-prefix() and @media (max-height: 442px)  {
+
+    .container .main .titulo-1
+	{
+		position: absolute;
+		margin-left: -3%; 
+		margin-top: 4%; 
+		width: 20%;
+	}
+	
+	.container .main .titulo-1 .img-titulo-1{
+		width: 100%;
+	}
+
+	.container .main .logo-1{
+		margin-top: 38%; 
+	}
+	.container .main .logo-2{
+		margin-top: 37%; 
+	}
+	.container .main .logo-3{
+		margin-top: 38%; 
+	}
+	
+	
+
+.container .main{
+	position: relative;
+	margin-left: 8%; 
+	margin-top: 0%; 
+}	
+	
+.container .main .menu{
+	position: absolute;
+	margin-left: 67%; 
+	margin-top: 22%; 
+}	
+
+	.container .main .menu-item.item-1{
+		position: absolute;
+		margin-top: 60px;
+	}
+	
+	.container .main .menu-item.item-2{
+		position: absolute;
+		margin-top: 10px;
+	}
+		.container .main .menu-item .img-icon{
+			width: 50px;
+		}
+		
+		.container .main .menu-item .img-background{
+			width: 200px;
+			height: 47px;
+			margin-left: -19px;
+			margin-top: 1px;
+		}
+		
+		.container .main .menu-item .text-menu-item{
+			position: absolute;
+			color:#5a5558;
+			margin-left: -11px;
+			margin-top: -43px;
+		}
+	
+	.container .main .logo-1 .img-logo-1{
+			width: 100%;
+	}
+	
+	
+	.container .main .logo-2 .img-logo-2{
+			width: 100%;
+	}
+	
+	
+	.container .main .logo-3 .img-logo-3{
+		width: 100%;
+	}
+
+}

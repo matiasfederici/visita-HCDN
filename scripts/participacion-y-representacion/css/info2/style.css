@@ -1,0 +1,442 @@
+/* ##### Info 3 ##### */
+
+	.texto-style-1{
+			-webkit-transform: rotate(270deg);   
+			-moz-transform: rotate(270deg);
+			-ms-transform: rotate(270deg);
+			-o-transform: rotate(270deg);
+			transform: rotate(303deg);
+			text-align: left;
+			color: #FFF;
+			font-size: 20px;
+			background-color: #616265;
+		
+			margin-top: 32%;
+	}
+	.text-style-2{
+		color: #76AFCF;
+	}	
+	.text-style-3{
+		color: #969595;
+		font-weight: bold;
+		font-size: 13px;
+	}	
+
+		.container .main{
+			position: relative;
+		}
+			
+			.container .main .titulo{
+				position: absolute;
+				margin-left: 5%; 
+				margin-top: 3%; 
+			
+				width: 29%;
+	}
+				
+				.container .main .titulo .img-titulo{
+					width: 100%;
+				}
+				
+			.container .main .galeria{
+				position: absolute;
+				margin-left: 10%; 
+				margin-top: 5%; 
+			}
+				
+				.container .main .galeria .img-galeria{
+					width: 85%;
+				}
+
+			.container .main .back{
+				position: absolute;
+				margin-left: 1%; 
+				margin-top: 2%; 		
+			}
+		
+				.container .main .back .img-back{
+					width: 100%;
+				}
+
+	.container .main .texto-1{
+
+		position: absolute;
+		margin-left: 3%; 
+		
+
+		margin-top: 23%; 
+		
+	
+
+}
+
+	.container .main .texto-style{
+		
+		font-size: 13px;
+		margin-top: -90px;
+		font-weight: normal;
+	
+		font-size: 16px;
+}
+
+	.container .main .texto-style div{
+		margin-bottom: 2%;
+	}
+
+	.container .main .texto-style .first-text{
+		text-indent: 32%;
+	}
+
+	.container .main .acefalia{
+position: absolute;
+margin-left: 39%;
+margin-top: 4%;
+width: 15%;
+cursor: pointer;
+	}
+				
+				.container .main .acefalia .img-acefalia{
+					width: 100%;
+				}
+				
+	.container .main .iniciosesiones{
+				position: absolute;
+				margin-left: 61%; 
+				margin-top: 29%; 		
+				width: 36%;
+				cursor: pointer;
+	}
+				
+				.container .main .iniciosesiones .img-iniciosesiones{
+					width: 100%;
+				}
+				
+	/***** MODALS STYLE ********/
+
+	.modal-container-1{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -42%; 
+		width: 69%;
+	}
+
+	.modal-container-1 .icono{
+		position: absolute;
+		margin-left: -20%;
+		margin-top: -58%; 
+		width: 120%;
+	}
+
+		.modal-container-1 .text-content-1{
+			position: absolute;
+			margin-left: 30%;
+			margin-top: -10%; 
+			width: 100%;
+			color: #868587;
+			font-size: 15px;
+		}
+		
+		.modal-container-1 .text-content-2{
+			position: absolute;
+			margin-left: 20%;
+			margin-top: 3%; 
+			width: 69%;
+		
+			text-transform: uppercase;
+			font-size: 22px;
+			color: #76AFCF;
+	}
+		
+		.modal-container-1 .text-content-3{
+			position: absolute;
+			margin-left: -4%;
+			margin-top: 8%; 
+			width: 93%;
+		
+			font-size: 17px;
+			text-align: justify;
+		}
+		
+	.modal-container-2 .icono{
+position: absolute;
+margin-left: 17%;
+margin-top: -165%;
+width: 110%;
+	}
+
+	.modal-container-2 .anios-container{
+position: absolute;
+margin-left: 6%;
+margin-top: -32%;
+width: 71%;
+	}
+
+	.modal-container-2 .anios-container .anio{
+		width: 159%;
+	}
+
+	.container .main .video {
+	position: absolute;
+	margin-left: 64%;
+	margin-top: 4%;
+	}
+	
+	.paulund_modal_box_1{
+		position: absolute;
+		left: 19%;
+		top: 2%;
+		height: 96%;
+		width: 75%;
+		z-index: 50;
+	}
+		.paulund_modal_box_1 .paulund_modal_close{
+			position: relative;
+			top: 4%;
+			left: -22%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+
+	.paulund_modal_box_2{
+position: absolute;
+left: 19%;
+top: 11%;
+height: 75%;
+width: 75%;
+z-index: 50;
+	}
+		.paulund_modal_box_2 .paulund_modal_close{
+			position: relative;
+			top: 4%;
+			left: -22%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+
+@media (max-height: 442px) {
+
+	.texto-style-1{
+			-webkit-transform: rotate(270deg);   
+			-moz-transform: rotate(270deg);
+			-ms-transform: rotate(270deg);
+			-o-transform: rotate(270deg);
+			transform: rotate(303deg);
+			text-align: left;
+			color: #FFF;
+			font-size: 20px;
+			background-color: #616265;
+		
+			margin-top: 32%;
+	}
+	.text-style-2{
+		color: #76AFCF;
+	}	
+	.text-style-3{
+		color: #3A3A3A;
+		/* font-weight: bold; */
+		font-size: 13px;
+	}	
+
+		.container .main{
+			position: relative;
+		}
+			
+			.container .main .titulo{
+				position: absolute;
+				margin-left: 5%; 
+				margin-top: 3%; 
+			
+				width: 25%;
+	}
+				
+				.container .main .titulo .img-titulo{
+					width: 100%;
+				}
+				
+			.container .main .galeria{
+				position: absolute;
+				margin-left: 10%; 
+				margin-top: 5%; 
+			}
+				
+				.container .main .galeria .img-galeria{
+					width: 85%;
+				}
+
+			.container .main .back{
+				position: absolute;
+				margin-left: 1%; 
+				margin-top: 2%; 		
+			}
+		
+				.container .main .back .img-back{
+					width: 100%;
+				}
+
+	.container .main .texto-1{
+
+		position: absolute;
+		margin-left: 3%; 
+		
+
+		margin-top: 23%; 
+		
+	
+
+}
+
+	.container .main .texto-style{
+		
+		font-size: 13px;
+		margin-top: -90px;
+		font-weight: normal;
+	
+		font-size: 12px;
+}
+
+	.container .main .texto-style div{
+		margin-bottom: 2%;
+	}
+
+	.container .main .texto-style .first-text{
+		text-indent: 32%;
+	}
+
+	.container .main .acefalia{
+				position: absolute;
+				margin-left: 40%; 
+				margin-top: 1%; 		
+				width: 18%;
+				cursor: pointer;
+	}
+				
+				.container .main .acefalia .img-acefalia{
+					width: 100%;
+				}
+				
+	.container .main .iniciosesiones{
+				position: absolute;
+				margin-left: 61%; 
+				margin-top: 31%; 		
+				width: 33%;
+				cursor: pointer;
+	}
+				
+				.container .main .iniciosesiones .img-iniciosesiones{
+					width: 100%;
+				}
+				
+	/***** MODALS STYLE ********/
+
+	.modal-container-1{
+		position: absolute;
+		margin-left: 10%;
+		margin-top: -42%; 
+		width: 71%;
+	}
+
+	.modal-container-1 .icono{
+		position: absolute;
+		margin-left: -20%;
+		margin-top: -58%; 
+		width: 120%;
+	}
+
+		.modal-container-1 .text-content-1{
+			position: absolute;
+			margin-left: 30%;
+			margin-top: -10%; 
+			width: 100%;
+			color: #868587;
+			font-size: 11px;
+		}
+		
+		.modal-container-1 .text-content-2{
+			position: absolute;
+			margin-left: 20%;
+			margin-top: 0%; 
+			width: 69%;
+		
+			text-transform: uppercase;
+			font-size: 17px;
+			color: #76AFCF;
+	}
+		
+		.modal-container-1 .text-content-3{
+			position: absolute;
+			margin-left: -4%;
+			margin-top: 8%; 
+			width: 93%;
+		
+			font-size: 13px;
+			text-align: justify;
+		}
+		
+	.modal-container-2 .icono{
+		position: absolute;
+		margin-left: 23%;
+		margin-top: -153%; 
+		width: 111%;
+	}
+
+	.modal-container-2 .anios-container{
+		position: absolute;
+		margin-left: 7%;
+		margin-top: -28%; 
+		width: 69%;
+	}
+
+	.modal-container-2 .anios-container .anio{
+		width: 218%;
+	}
+
+	.container .main .video {
+	position: absolute;
+	margin-left: 63%;
+	margin-top: 4%;
+	}
+	
+	.paulund_modal_box_1{
+		position: absolute;
+		left: 19%;
+		top: 2%;
+		height: 96%;
+		width: 75%;
+		z-index: 50;
+	}
+		.paulund_modal_box_1 .paulund_modal_close{
+			position: relative;
+			top: 3%;
+			left: -21%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+
+	.paulund_modal_box_2{
+		position: absolute;
+		left: 19%;
+		top: 12%;
+		height: 77%;
+		width: 75%;
+		z-index: 50;
+	}
+		.paulund_modal_box_2 .paulund_modal_close{
+			position: relative;
+			top: 3%;
+			left: -21%;
+			float: right;
+			display: block;
+			height: 50px;
+			width: 50px;
+			background: url("../../images/close.png") no-repeat;
+		}
+}

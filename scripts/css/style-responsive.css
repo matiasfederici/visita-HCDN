@@ -1,0 +1,46 @@
+/*
+Theme Name: Alpine
+Theme URI: http://www.creative-ispiration.com/themes/alpine/
+Description: Responsive One Page HTML5/CSS3 Parallax Site Template
+Version: 1.0
+Author: Creative-Ispiration
+Author URI: http://themeforest.net/user/creativeispiration
+*/
+
+/**/
+@media (max-width: 600px) {
+
+
+
+}
+
+/* ExtraSmall devices (tablets, 767px and down) */
+@media (max-width: 767px) {
+
+	
+	
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+	
+
+}
+
+@media (max-width: 1200px) {
+ 
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+}

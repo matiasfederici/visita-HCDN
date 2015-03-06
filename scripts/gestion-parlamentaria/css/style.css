@@ -1,0 +1,45 @@
+/* ##### GESTION PARLAMENTARIA ##### */
+	.with-out-padding{
+		padding: 0px;
+	}
+	
+	.with-margin-bottom-sm{
+		margin-bottom: 2%;
+	}
+	
+	.gestion-parlamentaria .container .header{
+		margin-top: 4%;
+	}
+		.gestion-parlamentaria .container .header img.titulo{
+			width: 90%;
+			height: auto;
+		}
+
+	.gestion-parlamentaria .container .content{
+		margin-top: 10%;
+	}
+		.gestion-parlamentaria .container .content img.visita-c{
+			margin-top: 5%;
+			width: 115%;
+			height: auto;
+		}
+
+		.gestion-parlamentaria .container .content img.book-btn{
+			width: 55px;
+			height: 55px;
+		}
+
+		.gestion-parlamentaria .container .content img.book2-btn{
+			width: 55px;
+			height: 55px;
+		}
+
+		.gestion-parlamentaria .container .content img.idea-btn{
+			width: 55px;
+			height: 55px;	
+		}		
+		
+	.gestion-parlamentaria .container .footer{
+		margin-top: 15%;
+	}
+

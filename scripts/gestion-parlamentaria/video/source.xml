@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist>
+	<title><![CDATA[New Playlist]]></title>
+	<items>
+		<item>
+			<title></title>
+			<description></description>			
+			<startFromThis>true</startFromThis>				
+			<source>video.mp4</source>			
+			<sourceType>direct</sourceType>
+		</item>
+		
+	</items>
+</playlist>

@@ -1,0 +1,192 @@
+/* ##### GESTION PARLAMENTARIA ##### */
+	
+	.texto-style{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 11px;
+		letter-spacing: 0.5px;
+	}
+	
+	.texto-style-2{
+		padding: 2px;
+		color: #FFF;
+		background-color: #6f6d6d;
+		font-size: 27px;
+	}
+	
+	.texto-style-3{
+		text-align: left;
+		color: #8B8B8B;
+		font-size: 11px;
+	}
+	
+	.texto-style-5{
+		text-align: left;
+		color: #65a9df;
+		font-size: 15px;
+	}
+	
+	.texto-style-6{
+		-webkit-transform: rotate(270deg);   
+		-moz-transform: rotate(270deg);
+		-ms-transform: rotate(270deg);
+		-o-transform: rotate(270deg);
+		transform: rotate(270deg);
+		
+		color: #59b9ff;
+		text-transform: uppercase;
+	
+		font-size: 20px;
+}
+		
+	.texto-style-7{
+		font-size: 19px;
+	}
+	
+	.texto-style-8{
+		color: #59b9ff;
+		font-size: 19px;
+	}
+	
+	.texto-style-9{
+		font-size: 19px;
+	}
+	
+	.texto-style-10{
+		color: #59b9ff;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	
+	.autoridad-item{
+		padding:10px;
+	}
+	
+	.texto-style-3-bg{
+		text-align: left;
+		color: #FFF;
+		font-size: 10px;
+		background-color: #59b9ff;
+	}
+	
+	.container{
+		background-image: url("../../images/info2/fondo2.png");
+		background-repeat: no-repeat;
+		background-position: right top;
+		background-size: 100% 100%;	
+	}
+
+	.container .main{
+		position: relative;
+	}
+		
+		.container .main .header{
+			position: absolute;
+			margin-left: 63%; 
+			margin-top: 5%; 
+		}
+			
+			.container .main .header .img-titulo{
+				width: 95%;
+			}
+			
+		.container .main .diputados{
+			position: absolute;
+			margin-left: 43%; 
+			margin-top: 11%; 
+		}
+			
+			.container .main .diputados .img-diputados{
+				width: 78%;
+			}
+		
+		.container .main .columna-1{
+			position: absolute;
+			margin-left: 11%; 
+			margin-top: 27%; 
+		}
+			
+			.container .main .columna-1 .img-columna-1{
+				width: 57%;
+			}
+
+		.container .main .columna-2{
+			position: absolute;
+			margin-left: 42%; 
+			margin-top: 28%; 
+		}
+			
+			.container .main .columna-2 .img-columna-2{
+				width: 60%;
+			}
+
+		.container .main .columna-3{
+			position: absolute;
+			margin-left: 76%; 
+			margin-top: 27%; 
+		}
+			
+			.container .main .columna-3 .img-columna-3{
+				width: 60%;
+			}			
+			
+		
+		.container .main .texto-1{
+			position: absolute;
+			margin-left: 8%; 
+			margin-top: 4%; 
+		}
+		
+		.container .main .texto-2{
+			position: absolute;
+			margin-left: 3%; 
+			margin-top: 22%; 
+		}
+		
+		.container .main .texto-3{
+			position: absolute;
+			margin-left: 5%; 
+			margin-top: 39%; 
+		}
+		
+		.container .main .texto-4{
+			position: absolute;
+			margin-left: 70%; 
+			margin-top: 39%; 
+		}
+		
+		.container .main .texto-5{
+			position: absolute;
+			margin-left: 33%; 
+			margin-top: 40%; 
+		}
+		.container .main .texto-6{
+			position: absolute;
+			margin-left: 8%; 
+			margin-top: 19%; 
+		}
+		.container .main .texto-7{
+			position: absolute;
+			margin-left: 33%; 
+			margin-top: 50%; 
+		}
+		.container .main .texto-8{
+			position: absolute;
+			margin-left: 70%; 
+			margin-top: 56%; 
+		}
+		.container .main .texto-9{
+			position: absolute;
+			margin-left: 70%; 
+			margin-top: 56%; 
+		}
+
+			.container .main .volver{
+				position: absolute;
+				margin-left: 1%; 
+				margin-top: 57%; 
+			}
+		
+				.container .main .volver .img-volver{
+					width: 275%;
+				}

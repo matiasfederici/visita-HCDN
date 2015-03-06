@@ -1,0 +1,134 @@
+/* ##### Info 2 ##### */
+.container .main{
+	position: relative;
+}
+	
+	.container .main .titulo{
+		position: absolute;
+		margin-left: 2%; 
+		margin-top: 35%; 
+		width: 25%;
+	}
+		
+		.container .main .titulo .img-titulo{
+			width: 100%;
+		}
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 3%; 
+		width: 3%;
+	}
+
+		.container .main .back .img-back{
+			/* width: 100%; */
+		}
+	.container .main .dictaduras{
+		position: absolute;
+		margin-left: 55%; 
+		margin-top: 5%; 
+		width: 25%;
+	}
+
+		.container .main .dictaduras .img-dictaduras{
+			width: 100%;
+		}
+	.container .main .dictaduras-gente{
+		position: absolute;
+		margin-left: 51%; 
+		margin-top: 15%; 
+		width: 30%;
+	}
+
+		.container .main .dictaduras-gente .img-dictaduras-gente{
+			width: 100%;
+		}
+	.container .main .democracias{
+		position: absolute;
+		margin-left: 22%; 
+		margin-top: 4%; 
+		width: 28%;
+	}
+
+		.container .main .democracias .img-democracias{
+			width: 100%;
+		}
+	.container .main .democracias-gente{
+		position: absolute;
+		margin-left: 21%; 
+		margin-top: 15%; 
+		width: 30%;
+	}
+
+		.container .main .democracias-gente .img-democracias-gente{
+			width: 100%;
+		}	
+
+@media (max-height: 442px) {
+.container .main{
+	position: relative;
+}
+	
+	.container .main .titulo{
+		position: absolute;
+		margin-left: 2%; 
+		margin-top: 31%; 
+		width: 25%;
+	}
+		
+		.container .main .titulo .img-titulo{
+			width: 100%;
+		}
+	.container .main .back{
+		position: absolute;
+		margin-left: 1%; 
+		margin-top: 3%; 
+		width: 3%;
+	}
+
+		.container .main .back .img-back{
+			/* width: 100%; */
+		}
+	.container .main .dictaduras{
+		position: absolute;
+		margin-left: 55%; 
+		margin-top: 5%; 
+		width: 25%;
+	}
+
+		.container .main .dictaduras .img-dictaduras{
+			width: 100%;
+		}
+	.container .main .dictaduras-gente{
+		position: absolute;
+		margin-left: 51%; 
+		margin-top: 15%; 
+		width: 30%;
+	}
+
+		.container .main .dictaduras-gente .img-dictaduras-gente{
+			width: 100%;
+		}
+	.container .main .democracias{
+		position: absolute;
+		margin-left: 22%; 
+		margin-top: 4%; 
+		width: 28%;
+	}
+
+		.container .main .democracias .img-democracias{
+			width: 100%;
+		}
+	.container .main .democracias-gente{
+		position: absolute;
+		margin-left: 21%; 
+		margin-top: 15%; 
+		width: 30%;
+	}
+
+		.container .main .democracias-gente .img-democracias-gente{
+			width: 100%;
+		}	
+
+
+}		
