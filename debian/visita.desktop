@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=visita
-Comment=Comment
+Name=Visitá la casa del pueblo
+Comment=Visitá la casa del pueblo
 Exec=/usr/bin/visita
 Terminal=false
 Type=Application
 Icon=visita
-Categories=GNOME;GTK;Huayra;Network;
+Categories=GNOME;GTK;Huayra;Education;
