@@ -1662,3 +1662,14 @@ font-size: 32px;
 	right: 60px;
 	top: 35px;
 }
+
+.vjs-fullscreen-control { display: none; }
+
+
+.exit-button {
+	cursor: pointer;
+}
+
+.exit-button:before {
+  content: "\e000";
+}

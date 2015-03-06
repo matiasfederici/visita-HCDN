@@ -27,6 +27,7 @@ $(document).ready(function() {
 	var place = $.urlParam('place');
 	var myPlayer;
 
+
 	if( $(window).height() <= 442 && $(window).width() <=1022 )
 	{
 		var width_reproductor = 550;
@@ -46,9 +47,25 @@ $(document).ready(function() {
 		videojs("example_video_1").ready(function(){
 
 			myPlayer = this;
-
 				myPlayer.addClass('vjs-fullscreen');
 				myPlayer.play();
+
+
+			var button = myPlayer.controlBar.addChild('button', {
+				text: 'alternar'
+			});
+
+			button.addClass('exit-button');
+
+			button.el().onclick = function() {
+				if (myPlayer.hasClass('vjs-fullscreen'))
+					myPlayer.removeClass('vjs-fullscreen');
+				else
+					myPlayer.addClass('vjs-fullscreen');
+			};
+
+			window.button = button;
+
 		});
 
 		videojs("example_video_1").on("ended", function(){
@@ -72,4 +89,6 @@ $(document).ready(function() {
 		myPlayer.load();
 		myPlayer.play();
 	});
+
+
 });
