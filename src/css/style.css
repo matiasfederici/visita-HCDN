@@ -1673,3 +1673,12 @@ font-size: 32px;
 .exit-button:before {
   content: "\e000";
 }
+
+
+.icono-imagen {
+	opacity: 0.5;
+}
+
+.icono-imagen:hover {
+	opacity: 1;
+}
