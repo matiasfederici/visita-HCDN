@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=visita
+Comment=Comment
+Exec=/usr/bin/visita
+Terminal=false
+Type=Application
+Icon=visita
+Categories=GNOME;GTK;Huayra;Network;
