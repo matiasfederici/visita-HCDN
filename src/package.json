@@ -3,6 +3,7 @@
   "main": "index.html",
   "window": {
     "toolbar": false,
+    "fullscreen": true,
     "width": 1300,
     "height": 650,
     "min_width": 1300,
