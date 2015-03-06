@@ -70,11 +70,13 @@ $(document).ready(function() {
 	}
 	else
 	{
-		videojs("example_video_1").ready(function(){
-			myPlayer = this;
+    if (window['videojs'] !== undefined) {
+      videojs("example_video_1").ready(function(){
+        myPlayer = this;
 
-			$('#example_video_1').find('.vjs-big-play-button').remove();
-		});
+        $('#example_video_1').find('.vjs-big-play-button').remove();
+      });
+    }
 	}
 
 	$( ".playlist" ).click(function() {

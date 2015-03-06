@@ -1,3 +1,10 @@
+visita (0.3) unstable; urgency=low
+
+  * Agregando iconos de alternado y cierre de la aplicación en el menú
+    principal. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 06 Mar 2015 15:47:17 +0100
+
 visita (0.2) unstable; urgency=low
 
   * Primer prueba de empaquetado.
