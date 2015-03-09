@@ -28,7 +28,26 @@ $(document).ready(function() {
 	});
 	
 	videojs("example_video_1").on("firstplay", function(){
-		if(!myPlayer.isFullscreen() )
-			myPlayer.addClass('vjs-fullscreen');
+	  myPlayer.addClass('vjs-fullscreen');
+
+			var button = myPlayer.controlBar.addChild('button', {
+				text: 'alternar'
+			});
+
+			button.addClass('exit-button');
+
+			button.el().onclick = function() {
+				$(myPlayer.el()).toggleClass('vjs-fullscreen');
+			};
 	});
+
+		videojs("example_video_1").on("ended", function(){
+			this.removeClass('vjs-fullscreen');
+		});
+
+		videojs("example_video_1").on("error", function(){
+			document.location.reload();
+		});
+
+
 });
