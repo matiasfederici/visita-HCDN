@@ -370,7 +370,9 @@
   transition-property: transform;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
+  padding-top: 40px;
 }
+
 .hvr-float:hover, .hvr-float:focus, .hvr-float:active {
   -webkit-transform: translateY(-8px);
   transform: translateY(-8px);

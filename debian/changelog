@@ -1,3 +1,9 @@
+visita (0.5.4) unstable; urgency=low
+
+  * Arreglando el texto flotante.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 09 Mar 2015 17:54:45 +0100
+
 visita (0.5.3) unstable; urgency=low
 
   * Agregando arreglo para los videos 13 y 14 (prie)
