@@ -1696,5 +1696,6 @@ font-size: 32px;
 }
 
 .titulo-menu {
-
+    margin-left: 76% !important;
+    margin-top: -2% !important;
 }

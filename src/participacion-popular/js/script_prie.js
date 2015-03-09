@@ -36,12 +36,39 @@ $(document).ready(function() {
 	});
 	
 	videojs("example_video_1").on("firstplay", function(){
-		if(!myPlayer_1.isFullscreen() )
-			myPlayer_1.addClass('vjs-fullscreen');
+		myPlayer_1.addClass('vjs-fullscreen');
+
+			var button = myPlayer_1.controlBar.addChild('button', {
+				text: 'alternar'
+			});
+
+			button.addClass('exit-button');
+
+			button.el().onclick = function() {
+				$(myPlayer_1.el()).toggleClass('vjs-fullscreen');
+			};
 	});
+
+		videojs("example_video_1").on("ended", function(){
+			this.removeClass('vjs-fullscreen');
+		});
+
 	
 	videojs("example_video_2").on("firstplay", function(){
-		if(!myPlayer_2.isFullscreen() )
-			myPlayer_2.addClass('vjs-fullscreen');
+		  myPlayer_2.addClass('vjs-fullscreen');
+
+			var button = myPlayer_2.controlBar.addChild('button', {
+				text: 'alternar'
+			});
+
+			button.addClass('exit-button');
+
+			button.el().onclick = function() {
+				$(myPlayer_2.el()).toggleClass('vjs-fullscreen');
+			};
 	});
+
+		videojs("example_video_2").on("ended", function(){
+			this.removeClass('vjs-fullscreen');
+		});
 });
