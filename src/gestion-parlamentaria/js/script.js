@@ -59,6 +59,8 @@ $(document).ready(function() {
 			});
 
 			button.addClass('exit-button');
+      
+			window.myPlayer = myPlayer;
 
 			button.el().onclick = function() {
 				$(myPlayer.el()).toggleClass('vjs-fullscreen');
