@@ -1,4 +1,4 @@
-VERSION=0.0.2
+VERSION=0.0.3
 NOMBRE="visita"
 
 N=[0m
@@ -50,7 +50,7 @@ distwin: limpiar
 	sh extras/distwin.sh
 	makensis distwin/instalador.nsi
 	mkdir dist
-	mv distwin/visita-HCDN_0.0.2.exe dist/
+	mv distwin/visita-HCDN_0.0.3.exe dist/
 	open dist
 
 crear_deb:
