@@ -59,7 +59,6 @@ crear_deb:
 version:
 	# patch || minor
 	@bumpversion patch --current-version ${VERSION} Makefile extras/instalador.nsi --list 
-	make build
 	@echo "Es recomendable escribir el comando que genera los tags y sube todo a github:"
 	@echo ""
 	@echo "make ver_sync"
