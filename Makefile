@@ -18,6 +18,10 @@ comandos:
 	@echo ""
 	@echo "  ${Y}Para distribuir${N}"
 	@echo ""
+	@echo "    ${G}version${N}         Genera la informacion de versión actualizada."
+	@echo "    ${G}ver_sync${N}        Sube la nueva version al servidor."
+	@echo ""
+	@echo "    ${G}distwin${N}         Genera las versiones para windows."
 	@echo "    ${G}publicar${N}        Incrementa la versión."
 	@echo "    ${G}crear_deb${N}       Empaqueta para huayra."
 	@echo ""
@@ -35,5 +39,36 @@ ejecutar_mac:
 publicar:
 	dch -i
 
+limpiar:
+	rm -r -f distwin
+	rm -r -f extras/bins
+	rm -r -f extras/__MACOSX
+
+
+distwin: limpiar
+	cd extras; unzip bins.zip
+	sh extras/distwin.sh
+	makensis distwin/instalador.nsi
+	mkdir dist
+	mv distwin/visita-HCDN_0.0.1.exe dist/
+	open dist
+
 crear_deb:
 	dpkg-buildpackage -us -uc
+
+version:
+	# patch || minor
+	@bumpversion patch --current-version ${VERSION} Makefile extras/instalador.nsi --list 
+	make build
+	@echo "Es recomendable escribir el comando que genera los tags y sube todo a github:"
+	@echo ""
+	@echo "make ver_sync"
+
+ver_sync:
+	git tag '${VERSION}'
+	make changelog
+	git commit -am 'release ${VERSION}'
+	git push
+	git push --all
+	git push --tags
+
