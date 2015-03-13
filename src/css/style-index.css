@@ -75,12 +75,23 @@
 	
 .container .main .logo-3{
 	position: absolute;
-	margin-left: 72%; 
+	margin-left: 27%; 
 	margin-top: 41%; 
-	width: 23%;
+	width: 22%;
 }
 	
 	.container .main .logo-3 .img-logo-3{
+		width: 100%;
+	}
+
+.container .main .logo-4{
+	position: absolute;
+	margin-left: 50%; 
+	margin-top: 40.5%; 
+	width: 23%;
+}
+	
+	.container .main .logo-4 .img-logo-4{
 		width: 100%;
 	}
 

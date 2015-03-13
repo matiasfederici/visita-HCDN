@@ -201,10 +201,127 @@
 		margin-top: -2%; 
 		width: 7%;
 	}	
+
+
+	/*2#*/	
+	.img-ano-1929{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+	
+	.img-globo-1929{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1929{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+	/*3#*/	
+	.img-ano-1931{
+		margin-left: 8%; 
+		margin-top: 5%; 
+		width: 10%;
+	}
+	
+	.img-globo-1931{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}	
+
+	.img-persona-1931{
+		margin-left: 10%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	
+	
+	/*4#*/	
+	.img-ano-1933{
+		margin-left: 8%; 
+		margin-top: 1%; 
+		width: 9%;
+	}
+
+	.img-globo-1933{
+		margin-left: 7%; 
+		margin-top: 2%; 
+		width: 10%;
+	}
+
+	.img-persona-1933{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*5#*/	
+	.img-ano-1935{
+		margin-left: 8%; 
+		margin-top: 3%; 
+		width: 10%;
+	}
+
+	.img-globo-1935{
+		margin-left: 6%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1935{
+		margin-left: 9%; 
+		margin-top: -1%; 
+		width: 7%;
+	}
+
+
+/*Slide-2-1*/
+	/*1#*/		
+	.img-ano-1935-2{
+		margin-left: 8%; 
+		margin-top: 3%; 
+		width: 10%;
+	}
+
+	.img-globo-1935-2{
+		margin-left: 10%; 
+		margin-top: 2%; 
+		width: 11%;
+	}	
+	
+	.img-persona-1935-2{
+		margin-left: 12%; 
+		margin-top: -1%; 
+		width: 7%;
+	}	
+	/*2#*/	
+	.img-ano-1935-3{
+		margin-left: 6%; 
+		margin-top: 3%; 
+		width: 12%;
+	}
+	
+	.img-globo-1935-3{
+		margin-left: 5%; 
+		margin-top: 1%; 
+		width: 10%;
+	}
+
+	.img-persona-1935-3{
+		margin-left: 7%; 
+		margin-top: -2%; 
+		width: 7%;
+	}	
+
+
 	/*3#*/	
 	.img-ano-1946{
-		margin-left: 7%; 
-		margin-top: 0%; 
+		margin-left: 6%; 
+		margin-top: 2%; 
 		width: 12%;
 	}
 	
@@ -241,8 +358,8 @@
 	}	
 	/*5#*/	
 	.img-ano-1947{
-		margin-left: 8%; 
-		margin-top: 3%; 
+		margin-left: 7%; 
+		margin-top: 6%; 
 		width: 10%;
 	}
 
@@ -257,6 +374,7 @@
 		margin-top: -1%; 
 		width: 7%;
 	}
+
 /*Slide-3*/
 	/*1#*/		
 	.img-ano-1947-2{
@@ -1862,7 +1980,110 @@
 					max-height: 330px;
 					text-align: justify;
 					font-size: 15px;
+			}	
+
+
+
+		/*** #2 ***/
+			.modal-container-1931 .icono-1931{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1931 .text-content{
+					position: absolute;
+					margin-left: 15%;
+					margin-top: -60%; 
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  
+					padding-right: 15px;
+				}			
+		/*** #3 ***/
+			.modal-container-1933 .icono-1933{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1933 .text-content{
+					position: absolute;
+					margin-left: 15%;
+					margin-top: -60%; 
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  
+					padding-right: 15px;
+				}			
+		/*** #4 ***/
+			.modal-container-1935 .icono-1935{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1935 .text-content{
+					position: absolute;
+					margin-left: 15%;
+					margin-top: -60%; 
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;  
+				}		
+
+
+	/*** Slide 2-1 ***/
+		
+		/*** #1 ***/
+			.modal-container-1935-2 .icono-1935-2{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 110%;
+			}
+
+				.modal-container-1935-2 .text-content{
+					position: absolute;
+					margin-left: 13%;
+					margin-top: -60%;
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					overflow-y: scroll; 
+					padding-right: 15px; 
+					font-size: 15px;
 			}			
+		/*** #2 ***/			
+			.modal-container-1935-3 .icono-1935-3{
+				position: absolute;
+				margin-left: 20%;
+				margin-top: -170%;
+				width: 120%;
+			}
+
+				.modal-container-1935-3 .text-content{
+					position: absolute;
+					margin-left: 15%;
+					margin-top: -60%; 
+					width: 70%;
+					max-height: 330px;
+					text-align: justify;
+					font-size: 15px;
+					overflow-y: scroll;  
+					padding-right: 15px;
+				}		
+
+
+					
 		/*** #3 ***/
 			.modal-container-1946 .icono-1946{
 				position: absolute;
@@ -1913,7 +2134,9 @@
 					max-height: 330px;
 					text-align: justify;
 					font-size: 15px;
-			}		
+			}	
+
+
 	/*** Slide 3 ***/
 		
 		/*** #1 ***/
