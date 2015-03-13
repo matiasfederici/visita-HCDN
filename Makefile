@@ -1,4 +1,4 @@
-VERSION=0.0.1
+VERSION=0.0.2
 NOMBRE="visita"
 
 N=[0m
@@ -50,7 +50,7 @@ distwin: limpiar
 	sh extras/distwin.sh
 	makensis distwin/instalador.nsi
 	mkdir dist
-	mv distwin/visita-HCDN_0.0.1.exe dist/
+	mv distwin/visita-HCDN_0.0.2.exe dist/
 	open dist
 
 crear_deb:
@@ -65,7 +65,6 @@ version:
 
 ver_sync:
 	git tag '${VERSION}'
-	make changelog
 	git commit -am 'release ${VERSION}'
 	git push
 	git push --all
