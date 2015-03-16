@@ -17,7 +17,7 @@
 	.container .main .titulo{
 		position: absolute;
 		margin-left: 2%; 
-		margin-top: 35%; 
+		margin-top: 42%; 
 		width: 25%;
 	}
 		
@@ -28,7 +28,7 @@
 	.container .main .democracias-titulo{
 		position: absolute;
 		margin-left: -19.5%; 
-		margin-top: 40%; 
+		margin-top: 42%; 
 		width: 25%;
 	}
 	
@@ -39,7 +39,8 @@
 	.container .main .democracias-control{
 		position: absolute;
 		margin-left: 72.4%; 
-		margin-top: 37.5%; 		
+		margin-top: 42%;
+		z-index: 100;
 	}
 
 	.container .main .democracias-control a{

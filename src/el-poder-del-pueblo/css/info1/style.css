@@ -9,7 +9,7 @@
 	.container .main .titulo{
 		position: absolute;
 		margin-left: 0%; 
-		margin-top: 2%; 
+		margin-top: 3.7%; 
 	
 		width: 31%;
 	}
@@ -32,7 +32,7 @@
 	.container .main .sub-titulo-2{
 		position: absolute;
 		margin-left: 2%; 
-		margin-top: 11%; 
+		margin-top: 11.6%; 
 	
 		width: 61%;
 	}
@@ -868,38 +868,6 @@
 			width: 100%;
 		}	
 
-	.container .main .linea-1{
-		position: absolute;
-		margin-left: 91%; 
-		margin-top: -0.5%; 
-		width: 19.9px;
-}
-
-		.container .main .linea-1 .img-linea-1{
-			width: 100%;
-		}	
-
-	.container .main .linea-2{
-		position: absolute;
-		margin-left: 82%; 
-		margin-top: 0%; 
-		width: 20.5px;
-}
-
-		.container .main .linea-2 .img-linea-2{
-			width: 100%;
-		}			
-	.container .main .linea-3{
-		position: absolute;
-		margin-left: 73%; 
-		margin-top: 0%; 
-		width: 20.5px;
-}
-
-		.container .main .linea-3 .img-linea-3{
-			width: 100%;
-		}			
-
 
 
 	.container .main .a-1853{
@@ -1373,4 +1341,77 @@
 			width: 50px;
 			background: url("../../images/close.png") no-repeat;
 		}
+}
+
+
+
+
+/********************************************************/
+
+#lineas-wrapper {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+#lineas-wrapper .linea {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	background-repeat: repeat-y;
+	width: 50px;
+}
+
+#lineas-wrapper .linea-1 {
+	background-image: url(/home/alumno/proyectos/recursos/recursos/el-poder-del-pueblo/images/info1/linea1.png);
+	right: 24%;
+}
+#lineas-wrapper .linea-2 {
+	background-image: url(/home/alumno/proyectos/recursos/recursos/el-poder-del-pueblo/images/info1/linea2.png);
+	right: 15%;
+}
+#lineas-wrapper .linea-3 {
+	background-image: url(/home/alumno/proyectos/recursos/recursos/el-poder-del-pueblo/images/info1/linea3.png);
+	right: 7%;
+}
+
+#lineas-wrapper .linea div {
+	position: absolute;
+	left: -17px;
+	cursor: pointer;
+}
+
+#lineas-wrapper .linea .e-1853 {
+	top: 16%;
+}
+#lineas-wrapper .linea .e-1857 {
+	top: 50%;
+}
+#lineas-wrapper .linea .e-1860 {
+	top: 70%;
+}
+
+#lineas-wrapper .linea .e-1912 {
+	top: 8%;
+}
+#lineas-wrapper .linea .e-1947 {
+	top: 43%;
+}
+#lineas-wrapper .linea .e-1949 {
+	top: 62%;
+}
+#lineas-wrapper .linea .e-1957 {
+	top: 82%;
+}
+
+#lineas-wrapper .linea .e-1994 {
+	top: 18%;
+}
+#lineas-wrapper .linea .e-2009 {
+	top: 45%;
+}
+#lineas-wrapper .linea .e-2012 {
+	top: 66%;
 }

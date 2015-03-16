@@ -69,20 +69,20 @@
 			.container .main .titulo{
 				position: absolute;
 				margin-left: 53%; 
-				margin-top: 2%; 
+				margin-top: 0; 
 			}
 				
 				.container .main .titulo .img-titulo{
 					width: 95%;
 				}
 			
-			.container .main .personas{
+			.container .main .personas {
 				position: absolute;
 				margin-left: 9%; 
 				margin-top: 2%; 
 			
 				width: 41%;
-}
+			}
 		
 				.container .main .personas .img-personas{
 					width: 100%;

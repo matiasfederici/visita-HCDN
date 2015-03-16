@@ -1,3 +1,46 @@
+visita (0.5.13) unstable; urgency=medium
+
+  * Varios cambios, sobre todo de estilos
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 14:51:34 -0300
+
+visita (0.5.12) unstable; urgency=medium
+
+  * Pequeño cambio de estilos
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 13:20:37 -0300
+
+visita (0.5.11) unstable; urgency=medium
+
+  * Trayendo los links adelante para que no los tape la imagen (perdían
+    funcionalidad)
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 13:17:49 -0300
+
+visita (0.5.10) unstable; urgency=medium
+
+  * Pequeño cambio de redacción
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 13:12:05 -0300
+
+visita (0.5.9) unstable; urgency=medium
+
+  * Cambiadas las alturas del contenido de los slides.
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 12:57:53 -0300
+
+visita (0.5.8) unstable; urgency=medium
+
+  * Más cambios de estilos
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 12:49:59 -0300
+
+visita (0.5.7) unstable; urgency=medium
+
+  * Pequeños cambios de estilos
+
+ -- Gonzalo Gluzman <dggluz@gmail.com>  Mon, 16 Mar 2015 12:20:50 -0300
+
 visita (0.5.6) unstable; urgency=medium
 
   * Estilos, correcciones en textos, preguntas frecuentes y logo educación

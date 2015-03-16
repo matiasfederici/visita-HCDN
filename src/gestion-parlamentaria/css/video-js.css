@@ -243,6 +243,7 @@ fonts to show/hide properly.
 .vjs-default-skin .vjs-volume-control {
   width: 5em;
   float: right;
+  margin-right: 25px;
 }
 .vjs-default-skin .vjs-volume-bar {
   width: 5em;

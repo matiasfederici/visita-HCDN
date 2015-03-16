@@ -42,7 +42,7 @@
 	text-transform: capitalize;
 }
 
-.slide-item{ display:block; overflow:hidden; margin:0 2px;}
+.slide-item{ display:block; overflow:hidden; margin:-15px 2px;}
 
 /* Clearfix for the .slides element */
 .slides:after {
